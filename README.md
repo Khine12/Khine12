@@ -31,14 +31,6 @@ I'm passionate about solving problems through technology and enjoy building tool
   🔗 [GitHub Repo](https://github.com/Khine12/Weekly-To-Do-Tracker)
 ---
 
-## 📌 Upcoming Projects
-
-- 💰 Budget Buddy – Track personal expenses  
-- 🏡 Shared Home Tasks – Chore planner for roommates  
-- 🛍️ Mini Online Shop – Simple e-commerce site
-
----
-
 ## 🎯 Goals for 2025–2026
 
 - ✅ Build real-world web applications and expand my GitHub portfolio  
