@@ -3,7 +3,7 @@
 🎓 CS Student @ Cal Poly Pomona (Class of 2027)  
 💻 Aspiring Software Engineer | Always Learning & Building  
 📍 Pomona, CA | Open to Remote (School Year) & In-Person (Summer) Roles  
-📄 📄 [View My Resume (PDF)](https://github.com/Khine12/Khine12.github.io/raw/main/Khine_Zar_Hein_Resume.pdf)
+📄 [View My Resume (PDF)](https://github.com/Khine12/Khine12.github.io/raw/main/Khine_Zar_Hein_Resume.pdf)
 
 ---
 
@@ -20,17 +20,15 @@ I'm passionate about solving problems through technology and enjoy building tool
 **Soft Skills:** Dependable, adaptable, eager to learn, strong communicator
 
 ---
-
 ## 🚀 Projects
 
-- 🌐 [Portfolio Website](https://khine12.github.io/)  
-  Showcases my background, goals, and projects.  
-  🔗 [GitHub Repo](https://github.com/Khine12/Khine12.github.io)
+### 🌐 [Personal Portfolio Website](https://khine12.github.io/)
+Responsive website built with HTML, CSS, and JavaScript. Features a light/dark mode toggle and showcases my background, goals, and project work.  
+🔗 [GitHub Repo](https://github.com/Khine12/Khine12.github.io)
 
-- ✅ [Weekly To-Do Tracker](https://khine12.github.io/Weekly-To-Do-Tracker/)  
-  A clean, useful weekly planner with task tracking and theme switching.  
-  🔗 [GitHub Repo](https://github.com/Khine12/Weekly-To-Do-Tracker)
-
+### ✅ [Weekly To-Do Tracker](https://khine12.github.io/Weekly-To-Do-Tracker/)
+A web app designed to help users organize their weekly tasks with collapsible day sections, task summaries, and a theme switcher. Built for real-life usefulness with a clean and simple UI.  
+🔗 [GitHub Repo](https://github.com/Khine12/Weekly-To-Do-Tracker)
 ---
 
 ## 📌 Upcoming Projects
@@ -41,12 +39,13 @@ I'm passionate about solving problems through technology and enjoy building tool
 
 ---
 
-## 🎯 Goals
+## 🎯 Goals for 2025–2026
 
-- Build real-world web apps  
-- Land a Summer 2026 internship  
-- Improve DSA skills on LeetCode/HackerRank  
-- Learn backend (Node.js, Express, Databases)
+- ✅ Build real-world web applications and expand my GitHub portfolio  
+- 💼 Land a Summer 2026 Software Engineering Internship  
+- 🧠 Improve problem-solving through consistent LeetCode/HackerRank practice  
+- 🛠️ Learn backend fundamentals (Node.js, Express, Databases)  
+- 🌱 Grow as a developer by contributing to meaningful and impactful software
 
 ---
 
