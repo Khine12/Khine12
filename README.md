@@ -22,13 +22,13 @@ I'm passionate about solving problems through technology and enjoy building tool
 ---
 ## 🚀 Projects
 
-🌐 [Personal Portfolio Website](https://khine12.github.io/)
-Responsive website built with HTML, CSS, and JavaScript. Features a light/dark mode toggle and showcases my background, goals, and project work.  
-🔗 [GitHub Repo](https://github.com/Khine12/Khine12.github.io)
+- 🌐 [Portfolio Website](https://khine12.github.io/)  
+  Showcases my background, goals, and projects.  
+  🔗 [GitHub Repo](https://github.com/Khine12/Khine12.github.io)
 
-✅ [Weekly To-Do Tracker](https://khine12.github.io/Weekly-To-Do-Tracker/)
-A web app designed to help users organize their weekly tasks with collapsible day sections, task summaries, and a theme switcher. Built for real-life usefulness with a clean and simple UI.  
-🔗 [GitHub Repo](https://github.com/Khine12/Weekly-To-Do-Tracker)
+- ✅ [Weekly To-Do Tracker](https://khine12.github.io/Weekly-To-Do-Tracker/)  
+  A clean, useful weekly planner with task tracking and theme switching.  
+  🔗 [GitHub Repo](https://github.com/Khine12/Weekly-To-Do-Tracker)
 ---
 
 ## 📌 Upcoming Projects
