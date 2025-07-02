@@ -2,60 +2,56 @@
 
 🎓 CS Student @ Cal Poly Pomona (Class of 2027)  
 💻 Aspiring Software Engineer | Always Learning & Building  
-📍 Based in Pomona, California, USA  
-📬 Open to Remote Internships During the School Year & In-Person Roles in Summer  
-📄 [View My Resume (PDF)](https://github.com/Khine12/Khine12.github.io/blob/main/assets/Khine_Zar_Hein_Resume.pdf)
+📍 Pomona, CA | Open to Remote (School Year) & In-Person (Summer) Roles  
+📄 [View My Resume (PDF)](https://github.com/Khine12/Khine12.github.io/raw/main/assets/Khine_Zar_Hein_Resume.pdf)
 
 ---
 
 ## 💡 About Me
 
-- Passionate about technology, problem-solving, and building tools with real-world impact
-- Actively learning front-end web development and planning to explore back-end soon
-- Always building — from personal productivity tools to portfolio websites
-- Seeking software engineering internships or part-time roles for hands-on experience
-- Focused on growing my technical and professional skills for Summer 2026 internships
+I'm passionate about solving problems through technology and enjoy building tools that are useful in everyday life. I'm actively learning front-end web development and preparing for Summer 2026 internships through project work and daily practice on LeetCode and HackerRank.
 
 ---
 
 ## 🛠️ Skills
 
 **Languages:** HTML, CSS, JavaScript, Python, C, C++  
-**Tools:** Git & GitHub, Visual Studio Code  
-**Soft Skills:** Organized, dependable, adaptable, eager to learn, strong communicator
+**Tools:** Git, GitHub, VS Code  
+**Soft Skills:** Dependable, adaptable, eager to learn, strong communicator
 
 ---
 
 ## 🚀 Projects
 
-### 🌐 [Portfolio Website](https://khine12.github.io/)
-Built with HTML, CSS, and JavaScript. Features a responsive design and light/dark mode toggle to showcase my background, projects, and goals.  
-🔗 [GitHub Repo](https://github.com/Khine12/Khine12.github.io)
+- 🌐 [Portfolio Website](https://khine12.github.io/)  
+  Showcases my background, goals, and projects.  
+  🔗 [GitHub Repo](https://github.com/Khine12/Khine12.github.io)
 
-### ✅ [Weekly To-Do Tracker Web App](https://khine12.github.io/Weekly-To-Do-Tracker/)
-A personal productivity app with collapsible sections, task summaries, and theme switching. Designed for real-world use with a clean, accessible UI.  
-🔗 [GitHub Repo](https://github.com/Khine12/Weekly-To-Do-Tracker)
-
----
-
-## 🔜 Upcoming Projects
-
-- **💰 Budget Buddy:** Monthly expense tracker to help users manage personal budgets  
-- **🏡 Shared Home Tasks:** Group-based house chore scheduler with simple communication features  
-- **🛍️ Mini Online Shop:** E-commerce site with basic product listing and checkout functionality  
+- ✅ [Weekly To-Do Tracker](https://khine12.github.io/Weekly-To-Do-Tracker/)  
+  A clean, useful weekly planner with task tracking and theme switching.  
+  🔗 [GitHub Repo](https://github.com/Khine12/Weekly-To-Do-Tracker)
 
 ---
 
-## 🎯 Goals for 2025–2026
+## 📌 Upcoming Projects
 
-- ✅ Build real-world web applications and expand my GitHub portfolio  
-- 💼 Land a Summer 2026 Software Engineering Internship  
-- 🧠 Improve problem-solving through consistent LeetCode/HackerRank practice  
-- 🛠️ Learn backend fundamentals (Node.js, Express, Databases)  
-- 🌱 Grow as a developer by contributing to meaningful and impactful software
+- 💰 Budget Buddy – Track personal expenses  
+- 🏡 Shared Home Tasks – Chore planner for roommates  
+- 🛍️ Mini Online Shop – Simple e-commerce site
 
-## 📫 Let's Connect
+---
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/khine-zar-hein/)  
-- 💻 [GitHub](https://github.com/Khine12)  
-- ✉️ Email: khinezarhein1@gmail.com  
+## 🎯 Goals
+
+- Build real-world web apps  
+- Land a Summer 2026 internship  
+- Improve DSA skills on LeetCode/HackerRank  
+- Learn backend (Node.js, Express, Databases)
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/khine-zar-hein/)  
+- [GitHub](https://github.com/Khine12)  
+- ✉️ khinezarhein1@gmail.com
