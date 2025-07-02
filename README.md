@@ -3,7 +3,7 @@
 🎓 CS Student @ Cal Poly Pomona (Class of 2027)  
 💻 Aspiring Software Engineer | Always Learning & Building  
 📍 Pomona, CA | Open to Remote (School Year) & In-Person (Summer) Roles  
-📄 [View My Resume (PDF)](https://github.com/Khine12/Khine12.github.io/raw/main/assets/Khine_Zar_Hein_Resume.pdf)
+📄 📄 [View My Resume (PDF)](https://github.com/Khine12/Khine12.github.io/raw/main/Khine_Zar_Hein_Resume.pdf)
 
 ---
 
