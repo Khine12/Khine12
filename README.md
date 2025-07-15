@@ -20,6 +20,7 @@ I'm passionate about solving problems through technology and enjoy building tool
 **Soft Skills:** Dependable, adaptable, eager to learn, strong communicator
 
 ---
+
 ## 🚀 Projects
 
 - 🌐 [Portfolio Website](https://khine12.github.io/)  
@@ -29,14 +30,22 @@ I'm passionate about solving problems through technology and enjoy building tool
 - ✅ [Weekly To-Do Tracker](https://khine12.github.io/Weekly-To-Do-Tracker/)  
   A clean, useful weekly planner with task tracking and theme switching.  
   🔗 [GitHub Repo](https://github.com/Khine12/Weekly-To-Do-Tracker)
+
+- 🧹 [CozyChores](https://khine12.github.io/CozyChores)  
+  A shared household chore web app built to help roommates and families stay organized.  
+  ▸ Users can create or join a group, assign chores with due dates, view monthly tasks, and log in/out using a simulated local account system.  
+  ▸ Built with HTML, CSS, and JavaScript using localStorage.  
+  ▸ Currently upgrading to a full-stack Firebase version for secure login and multi-device sync.  
+  🔗 [GitHub Repo](https://github.com/Khine12/CozyChores)
+
 ---
 
 ## 🎯 Goals for 2025–2026
 
 - ✅ Build real-world web applications and expand my GitHub portfolio  
-- 💼 Land a Summer 2026 Software Engineering Internship  
 - 🧠 Improve problem-solving through consistent LeetCode/HackerRank practice  
-- 🛠️ Learn backend fundamentals (Node.js, Express, Databases)  
+- 🛠️ Learn backend (Node.js, Express, Databases)
+- 💼 Land a Summer 2026 Software Engineering Internship    
 - 🌱 Grow as a developer by contributing to meaningful and impactful software
 
 ---
