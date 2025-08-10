@@ -2,6 +2,7 @@
 
 🎓 CS Student @ Cal Poly Pomona (Class of 2027)  
 💻 Building Full-Stack Web Applications | Preparing for SWE Internships
+
 📍 West Covina, CA | Open to Remote (School Year) & In-Person (Summer) Roles  
 
 ---
