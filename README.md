@@ -1,57 +1,41 @@
-# 👋 Hi, I'm Khine Zar Hein!
+# 👋 Hi, I'm Khine Zar Hein
 
 🎓 CS Student @ Cal Poly Pomona (Class of 2027)  
-💻 Aspiring Software Engineer | Always Learning & Building  
-📍 Pomona, CA | Open to Remote (School Year) & In-Person (Summer) Roles  
-📄 [View My Resume (PDF)](https://github.com/Khine12/Khine12.github.io/raw/main/Khine_Zar_Hein_Resume.pdf)
+💻 Building Full-Stack Web Applications | Preparing for SWE Internships
+📍 West Covina, CA | Open to Remote (School Year) & In-Person (Summer) Roles  
 
 ---
 
 ## 💡 About Me
-
-I'm passionate about solving problems through technology and enjoy building tools that are useful in everyday life. I'm actively learning front-end web development and preparing for Summer 2026 internships through project work and daily practice on LeetCode and HackerRank.
-
----
-
-## 🛠️ Skills
-
-**Languages:** HTML, CSS, JavaScript, Python, C, C++  
-**Tools:** Git, GitHub, VS Code  
-**Soft Skills:** Dependable, adaptable, eager to learn, strong communicator
+I enjoy creating web applications that solve everyday problems and are enjoyable to use.  
+I’ve worked on projects ranging from personal productivity tools to full-stack group management apps, with a focus on clean design, smooth user experience, and multi-device functionality.
 
 ---
 
-## 🚀 Projects
-
-- 🌐 [Portfolio Website](https://khine12.github.io/)  
-  Showcases my background, goals, and projects.  
-  🔗 [GitHub Repo](https://github.com/Khine12/Khine12.github.io)
-
-- ✅ [Weekly To-Do Tracker](https://khine12.github.io/Weekly-To-Do-Tracker/)  
-  A clean, useful weekly planner with task tracking and theme switching.  
-  🔗 [GitHub Repo](https://github.com/Khine12/Weekly-To-Do-Tracker)
-
-- 🧹 [CozyChores](https://khine12.github.io/CozyChores)  
-  A shared household chore web app built to help roommates and families stay organized.  
-  ▸ Users can create or join a group, assign chores with due dates, view monthly tasks, and log in/out using a simulated local account system.  
-  ▸ Built with HTML, CSS, and JavaScript using localStorage.  
-  ▸ Currently upgrading to a full-stack Firebase version for secure login and multi-device sync.  
-  🔗 [GitHub Repo](https://github.com/Khine12/CozyChores)
+## 🔧 Skills
+**Languages:** JavaScript, HTML, CSS, Python, C, C++  
+**Frameworks & Tools:** Firebase Auth, Cloud Firestore, LocalStorage, Git/GitHub, Visual Studio Code  
+**Development Skills:** Full-Stack Web Development, Front-End Development, Responsive Web Design, UI/UX Design, Real-Time Data Sync, Task Management Features, Group Chat Integration  
+**Soft Skills:** Communication, Teamwork, Problem-Solving, Adaptability
 
 ---
 
-## 🎯 Goals for 2025–2026
+## 🌟 Featured Projects
+- **CozyChores** – Full-stack group chore management app designed to make shared living more organized and fair.  
+  ▸ Features secure login, real-time task sync across devices, task filters (Pending, Completed, Requested More Time), group chat, and mobile-responsive design.  
+  ▸ Assign tasks to specific group members, see who assigned and completed them, and keep all members updated instantly.  
+  🔗 [GitHub Repo](https://github.com/Khine12/CozyChores) | 🌐 [Live Demo](https://khine12.github.io/CozyChores)
 
-- ✅ Build real-world web applications and expand my GitHub portfolio  
-- 🧠 Improve problem-solving through consistent LeetCode/HackerRank practice  
-- 🛠️ Learn backend (Node.js, Express, Databases)
-- 💼 Land a Summer 2026 Software Engineering Internship    
-- 🌱 Grow as a developer by contributing to meaningful and impactful software
+- **RhythmTasks** – Full-stack weekly planner for organizing tasks by day, tracking categories, and reviewing weekly summaries.  
+  ▸ Includes authentication, real-time sync with Firestore, and a mobile-friendly UI for planning on the go.  
+  🔗 [GitHub Repo](https://github.com/Khine12/RhythmTasks) | 🌐 [Live Demo](https://khine12.github.io/RhythmTasks)
+
+- **Portfolio Website** – Personal site showcasing my projects, skills, and internship preparation journey.  
+  🔗 [GitHub Repo](https://github.com/Khine12/Khine12.github.io) | 🌐 [Live Demo](https://khine12.github.io/)
 
 ---
 
 ## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/khine-zar-hein/)  
-- [GitHub](https://github.com/Khine12)  
-- ✉️ khinezarhein1@gmail.com
+- **Portfolio:** [khine12.github.io](https://khine12.github.io/)  
+- **LinkedIn:** [linkedin.com/in/khine-zar-hein](https://linkedin.com/in/khine-zar-hein)  
+- **Email:** khinezarhein1@gmail.com
