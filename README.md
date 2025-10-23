@@ -16,7 +16,7 @@ I’ve worked on projects ranging from personal productivity tools to full-stack
 
 ## 💻 Skills
 **Languages:** JavaScript, HTML, CSS, Java, Python                                             
-**Frameworks & Tools:** Firebase Auth, Cloud Firestore, LocalStorage, Git/GitHub, Visual Studio Code  React.js
+**Frameworks & Tools:** Firebase Auth, Cloud Firestore, LocalStorage, Git/GitHub, Visual Studio Code, React.js
 **Development Skills:** Full-Stack Web Development, Front-End Development, Responsive Web Design, UI/UX Design, Real-Time Data Sync, Task Management Features, Group Chat Integration  
 **Soft Skills:** Communication, Teamwork, Problem-Solving, Adaptability
 
@@ -39,7 +39,7 @@ I’ve worked on projects ranging from personal productivity tools to full-stack
 
 ## Coursework
 **Completed:** Data Structures & Advanced Programming · Discrete Structures · C/C++ Programming  
-**In Progress:** Systems Programming (Linux/Unix) · Computer Organization & Assembly · OOP (Java)  
+**In Progress:** Systems Programming (Linux/Unix) · Computer Organization & Assembly · Object-Oriented Programming in Java
 **Planned (Spring 2026):** Design & Analysis of Algorithms · Database Systems (**SQL**) · Object-Oriented Design & Programming
 
 ---
