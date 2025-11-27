@@ -40,8 +40,7 @@ I’ve worked on projects ranging from personal productivity tools to full-stack
 ## Coursework
 **Completed:** Data Structures & Advanced Programming · Discrete Structures · C/C++ Programming  
 **In Progress:** Systems Programming (Linux/Unix) · Computer Organization & Assembly · Object-Oriented Programming in Java
-**Planned (Spring 2026):** Design & Analysis of Algorithms · Database Systems (**SQL**) · Object-Oriented Design & Programming
-
+**Planned (Spring 2026):** Design & Analysis of Algorithms · Database Systems (**SQL**) · Object-Oriented Design & Programming · Software Engineering
 ---
 
 ## 📫 Connect with Me
