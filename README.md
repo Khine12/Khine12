@@ -2,7 +2,7 @@
 
 🎓 CS Student @ Cal Poly Pomona (Class of 2027)  
 
-💻 Building production-ready full-stack web applications | Preparing for SWE Internships
+💻 Building production-ready full-stack web applications | Preparing for software engineering roles
 
 📍 West Covina, CA | Open to software engineering and technical opportunities (remote or in-person)
 
@@ -15,9 +15,13 @@ I’ve worked on projects ranging from personal productivity tools to full-stack
 ---
 
 ## 💻 Skills
-**Languages:** JavaScript, HTML, CSS, Java, Python                                             
+
+**Languages:** JavaScript, HTML, CSS, Java, Python              
+
 **Frameworks & Tools:** Firebase Auth, Cloud Firestore, LocalStorage, Git/GitHub, Visual Studio Code
+
 **Development Skills:** Full-Stack Web Development, Front-End Development, Responsive Web Design, UI/UX Design, Real-Time Data Sync, Task Management Features, Group Chat Integration  
+
 **Soft Skills:** Communication, Teamwork, Problem-Solving, Adaptability
 
 ---
@@ -39,9 +43,9 @@ I’ve worked on projects ranging from personal productivity tools to full-stack
 
 ## Coursework
 
-Completed: Data Structures & Advanced Programming · Discrete Structures · C/C++ · Systems Programming (Linux/Unix) · Computer Organization & Assembly
+**Completed:** Data Structures & Advanced Programming · Discrete Structures · C/C++ · Systems Programming (Linux/Unix) · Computer Organization & Assembly
 
-Planned (Spring 2026): Design & Analysis of Algorithms · Database Systems (SQL) · Object-Oriented Design & Programming · Software Engineering
+**Planned (Spring 2026):** Design & Analysis of Algorithms · Database Systems (SQL) · Object-Oriented Design & Programming · Software Engineering
 
 ---
 
