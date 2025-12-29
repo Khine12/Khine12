@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Khine Zar Hein
 
 🎓 CS Student @ Cal Poly Pomona (Class of 2027)  
+
 💻 Building production-ready full-stack web applications | Preparing for SWE Internships
+
 📍 West Covina, CA | Open to software engineering and technical opportunities (remote or in-person)
+
 ---
 
 ## 🙋‍♀️ About Me
@@ -37,7 +40,9 @@ I’ve worked on projects ranging from personal productivity tools to full-stack
 ## Coursework
 
 Completed: Data Structures & Advanced Programming · Discrete Structures · C/C++ · Systems Programming (Linux/Unix) · Computer Organization & Assembly
+
 Planned (Spring 2026): Design & Analysis of Algorithms · Database Systems (SQL) · Object-Oriented Design & Programming · Software Engineering
+
 ---
 
 ## 📫 Connect with Me
