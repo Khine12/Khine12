@@ -9,8 +9,8 @@
 ---
 
 ## 🙋‍♀️ About Me
-I enjoy creating web applications that solve everyday problems and are enjoyable to use.  
-I’ve worked on projects ranging from personal productivity tools to full-stack group management apps, with a focus on clean design, smooth user experience, and multi-device functionality.
+
+I enjoy building web applications that solve everyday problems and feel intuitive to use. I’ve worked on projects ranging from personal productivity tools to full-stack group management applications, with a focus on clean design, thoughtful user experience, and reliable functionality across devices.
 
 ---
 
