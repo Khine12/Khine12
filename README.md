@@ -1,55 +1,156 @@
-# 👋 Hi, I'm Khine Zar Hein
+# 👋 Hi, I'm Khine Zar Hein  
 
-🎓 CS Student @ Cal Poly Pomona (Class of 2027)  
-
-💻 Building production-ready full-stack web applications | Preparing for software engineering roles
-
-📍 West Covina, CA | Open to software engineering and technical opportunities (remote or in-person)
+🎓 **Computer Science Student @ Cal Poly Pomona (Class of 2027)**  
+💻 **Full-Stack Developer | Open Source Contributor | SWE Internship Candidate**  
+📍 West Covina, CA  
 
 ---
 
-## 🙋‍♀️ About Me
+## 🚀 About Me
 
-I enjoy building web applications that solve everyday problems and feel intuitive to use. I’ve worked on projects ranging from personal productivity tools to full-stack group management applications, with a focus on clean design, thoughtful user experience, and reliable functionality across devices.
+I enjoy building software that solves real problems and feels intuitive to use. My work focuses on full-stack web applications with secure authentication, real-time functionality, and clean, responsive user interfaces.
+
+I have built and deployed full-stack applications such as **CozyChores** and **RhythmTasks**, and I also contribute to the **Submitty open-source project**, working on testing infrastructure, CI debugging, and grading workflow improvements.
+
+Currently strengthening my **data structures and algorithms** knowledge through **CodePath’s Advanced Technical Interview Prep program** while preparing for **Software Engineering internships**.
 
 ---
 
-## 💻 Skills
+## 💻 Technical Skills
 
-**Languages:** JavaScript, HTML, CSS, Java, Python              
+**Languages**  
+Java • JavaScript • Python • HTML • CSS • SQL  
 
-**Frameworks & Tools:** Firebase Auth, Cloud Firestore, LocalStorage, Git/GitHub, Visual Studio Code
+**Tools & Technologies**  
+Firebase Authentication • Cloud Firestore • Git • GitHub • Cypress • Linux/Unix • VS Code  
 
-**Development Skills:** Full-Stack Web Development, Front-End Development, Responsive Web Design, UI/UX Design, Real-Time Data Sync, Task Management Features, Group Chat Integration  
+**Engineering Skills**  
+Full-Stack Development • Data Structures & Algorithms • Object-Oriented Programming  
+Authentication & Authorization • CRUD Systems • Real-Time Applications  
+Testing & Debugging • Responsive UI Development  
 
-**Soft Skills:** Communication, Teamwork, Problem-Solving, Adaptability
+---
+
+## 🌍 Open Source Contributions
+
+### Submitty (GSoC 2026 Pre-Contribution)
+
+Open source learning management and grading platform used by universities.
+
+**Contributions:**
+
+• Developed Cypress end-to-end tests validating UI privacy protections  
+• Debugged CI failures and investigated flaky automated tests  
+• Improved grading datasets for testing workflows  
+• Collaborated with maintainers through code review cycles  
+
+**Pull Requests:**
+
+PR #12535 → https://github.com/Submitty/Submitty/pull/12535  
+
+PR #12562 → https://github.com/Submitty/Submitty/pull/12562  
+
+PR #12571 → https://github.com/Submitty/Submitty/pull/12571  
 
 ---
 
 ## 🌟 Featured Projects
-- **CozyChores** – Full-stack group chore management app designed to make shared living more organized and fair.  
-  ▸ Features secure login, real-time task sync across devices, task filters (Pending, Completed, Requested More Time), group chat, and mobile-responsive design.  
-  ▸ Assign tasks to specific group members, see who assigned and completed them, and keep all members updated instantly.  
-  🔗 [GitHub Repo](https://github.com/Khine12/CozyChores) | 🌐 [Live Demo](https://khine12.github.io/CozyChores)
 
-- **RhythmTasks** – Full-stack weekly planner for organizing tasks by day, tracking categories, and reviewing weekly summaries.  
-  ▸ Includes authentication, real-time sync with Firestore, and a mobile-friendly UI for planning on the go.  
-  🔗 [GitHub Repo](https://github.com/Khine12/RhythmTasks) | 🌐 [Live Demo](https://khine12.github.io/RhythmTasks)
+### 🧹 CozyChores — Full-Stack Group Chore Manager
 
-- **Portfolio Website** – Personal site showcasing my projects, skills, and internship preparation journey.  
-  🔗 [GitHub Repo](https://github.com/Khine12/Khine12.github.io) | 🌐 [Live Demo](https://khine12.github.io/)
+Full-stack web app designed to help roommates organize shared responsibilities.
+
+**Key Features:**
+
+• Secure authentication and group management  
+• Real-time task synchronization  
+• Task filtering and completion tracking  
+• Group chat with sender identification  
+• Mobile-responsive interface  
+
+GitHub:  
+https://github.com/Khine12/CozyChores  
+
+Live Demo:  
+https://khine12.github.io/CozyChores/
 
 ---
 
-## Coursework
+### 🗓️ RhythmTasks — Full-Stack Weekly Planner
 
-**Completed:** Data Structures & Advanced Programming · Discrete Structures · C/C++ · Systems Programming (Linux/Unix) · Computer Organization & Assembly
+Weekly task planner designed to improve productivity and organization.
 
-**Planned (Spring 2026):** Design & Analysis of Algorithms · Database Systems (SQL) · Object-Oriented Design & Programming · Software Engineering
+**Key Features:**
+
+• Firebase authentication and password reset  
+• Real-time Firestore synchronization  
+• Weekly summary dashboard  
+• Task categorization  
+• Real-time clock integration  
+
+GitHub:  
+https://github.com/Khine12/RhythmTasks  
+
+Live Demo:  
+https://khine12.github.io/RhythmTasks/
 
 ---
 
-## 📫 Connect with Me
-- **Portfolio:** [khine12.github.io](https://khine12.github.io/)  
-- **LinkedIn:** [linkedin.com/in/khine-zar-hein](https://linkedin.com/in/khine-zar-hein)  
-- **Email:** khinezarhein1@gmail.com
+### 🌐 Portfolio Website
+
+Personal site showcasing projects and technical progress.
+
+GitHub:  
+https://github.com/Khine12/Khine12.github.io  
+
+Live:
+https://khine12.github.io
+
+---
+
+## 📚 Technical Training
+
+### CodePath — Advanced Technical Interview Prep (Spring 2026)
+
+Selected for a technical interview preparation program focused on:
+
+• Data Structures  
+• Algorithms  
+• Python problem solving  
+• Interview-style coding  
+• Writing efficient solutions under time constraints  
+
+---
+
+## 🎓 Education
+
+**California State Polytechnic University, Pomona**  
+Bachelor of Science in Computer Science  
+Expected Graduation: **December 2027**
+
+Transferred with Honors from  
+Los Angeles City College (Associate Degree, 2025)
+
+---
+
+## 📫 Connect With Me
+
+Portfolio:  
+https://khine12.github.io  
+
+LinkedIn:  
+https://linkedin.com/in/khine-zar-hein  
+
+Email:  
+khinezarhein1@gmail.com  
+
+---
+
+## ⚡ Current Focus
+
+• Preparing for Software Engineering internships  
+• Practicing Data Structures & Algorithms  
+• Contributing to open source  
+• Building real-world full-stack systems
+
+---
