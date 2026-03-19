@@ -19,7 +19,7 @@ Currently strengthening my **data structures and algorithms** knowledge through 
 ## 💻 Technical Skills
 
 **Languages**  
-Java • JavaScript • Python • HTML • CSS • SQL  
+Java • JavaScript • Python • PHP • HTML • CSS • SQL  
 
 **Tools & Technologies**  
 Firebase Authentication • Cloud Firestore • Git • GitHub • Cypress • Linux/Unix • VS Code  
@@ -39,10 +39,14 @@ Open source learning management and grading platform used by universities.
 
 **Contributions:**
 
-• Developed Cypress end-to-end tests validating UI privacy protections  
-• Debugged CI failures and investigated flaky automated tests  
-• Improved grading datasets for testing workflows  
-• Collaborated with maintainers through code review cycles  
+● Contributed 4 pull requests improving testing infrastructure and grading 
+workflows in a production university grading platform 
+● Fixed a PHP bug in SubmissionController.php where bulk upload file conflict detection assumed filenames always 
+contain a dot, causing silent merge failures 
+● Developed Cypress E2E tests validating UI privacy protections in TA grading workflows 
+● Expanded bulk upload sample datasets to improve automated grading test coverage 
+● Debugged CI failures and resolved flaky Cypress tests across modules 
+● Addressed reviewer feedback across 3 review cycles, resolving CI failures and edge cases
 
 **Pull Requests:**
 
@@ -51,6 +55,8 @@ PR #12535 → https://github.com/Submitty/Submitty/pull/12535
 PR #12562 → https://github.com/Submitty/Submitty/pull/12562  
 
 PR #12571 → https://github.com/Submitty/Submitty/pull/12571  
+
+PR #12607 → https://github.com/Submitty/Submitty/pull/12607
 
 ---
 
