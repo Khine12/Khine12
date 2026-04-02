@@ -87,6 +87,7 @@ Tech Stack: Next.js (TypeScript) • Express.js (TypeScript) • PostgreSQL • 
 GitHub:
 https://github.com/TAndronaco/CS4800-Worker-Schedule-Project
 
+---
 
 ### 🧹 CozyChores — Full-Stack Group Chore Manager
 
