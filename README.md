@@ -38,15 +38,15 @@ Open source course management and grading platform used by universities
 
 **Contributions:**
 
-● Authored 5 pull requests improving testing infrastructure, grading workflows, and access control in a production platform serving thousands of students and instructors
-● Fixed a PHP bug in SubmissionController.php where bulk upload file conflict detection assumed filenames always contain a dot, causing silent merge failures
-● Developed Cypress E2E tests validating UI privacy protections and grading workflows across student, TA, and instructor roles
-● Fixed forum access control checks that incorrectly excluded limited access graders from staff functionality
-● Expanded bulk upload sample datasets to improve automated grading test coverage 
-● Filed 2 bug reports identifying CI pipeline failures on main, leading to maintainer fixes
-● Reviewed 3 pull requests by other contributors, identifying linting errors, accessibility issues, and root causes
-● Debugged CI failures and resolved flaky Cypress tests across multiple modules
-● Addressed reviewer feedback across multiple review cycles with maintainers
+● Authored 5 pull requests improving testing infrastructure, grading workflows, and access control in a production platform serving thousands of students and instructors            
+● Fixed a PHP bug in SubmissionController.php where bulk upload file conflict detection assumed filenames always contain a dot, causing silent merge failures            
+● Developed Cypress E2E tests validating UI privacy protections and grading workflows across student, TA, and instructor roles           
+● Fixed forum access control checks that incorrectly excluded limited access graders from staff functionality                  
+● Expanded bulk upload sample datasets to improve automated grading test coverage              
+● Filed 2 bug reports identifying CI pipeline failures on main, leading to maintainer fixes            
+● Reviewed 3 pull requests by other contributors, identifying linting errors, accessibility issues, and root causes           
+● Debugged CI failures and resolved flaky Cypress tests across multiple modules            
+● Addressed reviewer feedback across multiple review cycles with maintainers             
 
 **Pull Requests:**
 
@@ -72,17 +72,17 @@ Tech Stack: Next.js (TypeScript) • Express.js (TypeScript) • PostgreSQL • 
 
 **My Contributions:**
 
-Designed and implemented a Messenger-style in-app messaging system with persistent database storage
-Fixed a bug where managers weren't automatically added to team membership on team creation
-Fixed authentication state management across the frontend navbar
+• Designed and implemented a Messenger-style in-app messaging system with persistent database storage                          
+• Fixed a bug where managers weren't automatically added to team membership on team creation                
+• Fixed authentication state management across the frontend navbar             
 
 **Key Features:**
 
-• Manager shift assignment and schedule management
-• Employee shift swap requests and availability tracking
-• Real-time in-app messaging between team members
-• Role-based access control for managers and employees
-• Deployed on Vercel and Render
+• Manager shift assignment and schedule management  
+• Employee shift swap requests and availability tracking      
+• Real-time in-app messaging between team members              
+• Role-based access control for managers and employees          
+• Deployed on Vercel and Render               
 
 GitHub:
 https://github.com/TAndronaco/CS4800-Worker-Schedule-Project
