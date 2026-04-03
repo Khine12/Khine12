@@ -143,7 +143,7 @@ https://khine12.github.io
 
 ## 📚 Technical Training
 
-### CodePath — Advanced Technical Interview Prep (Spring 2026)
+### CodePath — Advanced Technical Interview Prep  (Feb 2026 to April 2026)
 
 Selected for a technical interview preparation program focused on:
 
