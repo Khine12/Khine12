@@ -66,12 +66,14 @@ PR #12715 → https://github.com/Submitty/Submitty/pull/12715
 
 ### PE Hackathon Template (MLH Production Engineering Hackathon)
 
-- Built a production-grade Flask REST API completing Reliability, Scalability, and Incident Response quest tracks  
-- Implemented Redis caching, Nginx load balancing across 2 Gunicorn containers, handling 500 concurrent users at 76 RPS with 0 failures   
-- Added structured JSON logging, live metrics endpoint, Discord alerting with auto-recovery detection, and 83% pytest coverage across 19 tests  
-- Set up GitHub Actions CI/CD pipeline with Docker Compose and auto-restart policy  
-- **Stack:** Python, Flask, PostgreSQL, Redis, Nginx, Docker, Locust, pytest   
-- [GitHub](https://github.com/Khine12/PE-Hackathon-Template-2026)    
+• Built a production-grade Flask REST API completing Reliability, Scalability, and Incident Response quest tracks  
+• Implemented Redis caching, Nginx load balancing across 2 Gunicorn containers, handling 500 concurrent users at 76 RPS with 0 failures   
+• Added structured JSON logging, live metrics endpoint, Discord alerting with auto-recovery detection, and 83% pytest coverage across 19 tests  
+• Set up GitHub Actions CI/CD pipeline with Docker Compose and auto-restart policy  
+• **Stack:** Python, Flask, PostgreSQL, Redis, Nginx, Docker, Locust, pytest   
+• [GitHub](https://github.com/Khine12/PE-Hackathon-Template-2026)
+
+---
 
 ### 📅 ShiftSync — Full-Stack Employee Shift Scheduling Platform (collaborative, in progress)
 
