@@ -9,7 +9,11 @@
 
 I enjoy building software that solves real problems with clean architecture and reliable functionality. My recent work spans production-grade backend systems, collaborative full-stack applications, and open source contributions to platforms used by thousands of users.
 
-I built a **Flask REST API** during the MLH Production Engineering Hackathon that sustained 500 concurrent users at 76 RPS with zero failures using Redis caching, Nginx load balancing, and Docker. I'm also contributing to **Submitty**, an open-source university grading platform, with 5 pull requests covering Cypress E2E testing, PHP bug fixes, and access control improvements. As a collaborative project, I'm building **ShiftSync** — a shift scheduling platform using Next.js, Express.js, and PostgreSQL.
+I built a **Flask REST API** during the MLH Production Engineering Hackathon that sustained 500 concurrent users at 76 RPS with zero failures using Redis caching, Nginx load balancing, and Docker. 
+
+I'm also contributing to **Submitty**, an open-source university grading platform, with 5 pull requests covering Cypress E2E testing, PHP bug fixes, and access control improvements. 
+
+As a collaborative project, I'm building **ShiftSync** — a shift scheduling platform using Next.js, Express.js, and PostgreSQL.
 
 Currently completing **CodePath's Advanced Technical Interview Prep** while actively pursuing Software Engineering internships.
 
@@ -129,6 +133,7 @@ Personal site showcasing projects and technical progress.
 ## 📚 Technical Training
 
 **CodePath — Advanced Technical Interview Prep** *Feb 2026 - May 2026*
+
 Selected for a competitive program focused on data structures, algorithms, and Python-based problem solving under time constraints.
 
 ---
@@ -136,9 +141,11 @@ Selected for a competitive program focused on data structures, algorithms, and P
 ## 🎓 Education
 
 **California State Polytechnic University, Pomona**
+
 B.S. in Computer Science — Expected Dec 2027 | GPA: 3.7
 
 **Los Angeles City College**
+
 Associate Degree, 2025 | GPA: 3.7 | Transferred with Honors
 
 ---
