@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Khine Zar Hein
 🎓 Computer Science Student @ Cal Poly Pomona (Class of 2027)
+
 💻 Full-Stack Developer | Open Source Contributor | SWE Internship Candidate
+
 📍 West Covina, CA
 
 ---
