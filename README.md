@@ -27,14 +27,13 @@ Currently completing **CodePath's Advanced Technical Interview Prep** while acti
 Java • Python • JavaScript • TypeScript • PHP • SQL • HTML • CSS
 
 **Backend & Infrastructure**
-Flask • Express.js • PostgreSQL • Redis • Nginx • Docker • Gunicorn • GitHub Actions
+FastAPI • Flask • Express.js • PostgreSQL • Redis • Nginx • Docker • Gunicorn • SQLAlchemy • APScheduler • Resend API • GitHub Actions
 
 **Frontend & Tools**
-Next.js • React • Firebase (Auth/Firestore) • Git • GitHub • Cypress • Vagrant • Linux/Unix • VS Code
+React • Next.js • TypeScript • Vite • Recharts • Firebase (Auth/Firestore) • Git • Cypress • Vagrant • Linux/Unix • VS Code
 
 **Core Skills**
-Full-Stack Development • REST APIs • Automated Testing • CI/CD • OOP • Data Structures & Algorithms • Debugging • Responsive UI Development
-
+Full-Stack Development • REST APIs • Automated Testing • CI/CD • JWT Authentication • OOP • Data Structures & Algorithms • Debugging • Responsive UI Development
 ---
 
 ## 🌍 Open Source Contributions
@@ -66,6 +65,22 @@ Open source course management and grading platform used by universities worldwid
 ---
 
 ## 🌟 Featured Projects
+
+### 📦 Inventra — Inventory & Sales Management Platform
+Full-stack inventory management platform for small businesses with automated stock tracking, email receipts, and scheduled daily alerts.
+
+**Stack:** Python • FastAPI • PostgreSQL • React • TypeScript • JWT • Resend • APScheduler • pytest • GitHub Actions
+
+- Built production REST API with automatic stock deduction after each sale and server-side negative stock guard
+- Integrated Resend API to fire email receipts automatically after every transaction via custom domain `noreply@khinezarhein.com`
+- Added APScheduler to email sellers daily about low-stock and expiring items — no manual trigger required
+- Deployed across 4 cloud services: Render (API) + Neon (PostgreSQL) + Vercel (Frontend) + Resend (Email)
+- 9 pytest tests passing with GitHub Actions CI/CD running on every push to main
+
+📂 [Backend](https://github.com/Khine12/inventra) | 
+📂 [Frontend](https://github.com/Khine12/inventra-frontend) | 
+🌐 [Live Demo](https://inventra-frontend-alpha.vercel.app) | 
+📖 [API Docs](https://inventra-api-ernr.onrender.com/docs)
 
 ### ⚙️ MLH Production Engineering Hackathon — Flask REST API
 Built a production-grade REST API completing the Reliability, Scalability, and Incident Response quest tracks.
