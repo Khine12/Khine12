@@ -23,17 +23,18 @@ Currently completing **CodePath's Advanced Technical Interview Prep** while acti
 
 ## 💻 Technical Skills
 
-**Languages**
-Java • Python • JavaScript • TypeScript • PHP • SQL • HTML • CSS
+**Languages**   
+Java • Python • JavaScript • TypeScript • PHP • SQL • HTML • CSS  
 
-**Backend & Infrastructure**
-FastAPI • Flask • Express.js • PostgreSQL • Redis • Nginx • Docker • Gunicorn • SQLAlchemy • APScheduler • Resend API • GitHub Actions
+**Backend & Infrastructure**    
+FastAPI • Flask • Express.js • PostgreSQL • Redis • Nginx • Docker • Gunicorn • SQLAlchemy • APScheduler • Resend API • GitHub Actions    
 
-**Frontend & Tools**
-React • Next.js • TypeScript • Vite • Recharts • Firebase (Auth/Firestore) • Git • Cypress • Vagrant • Linux/Unix • VS Code
+**Frontend & Tools**    
+React • Next.js • TypeScript • Vite • Recharts • Firebase (Auth/Firestore) • Git • Cypress • Vagrant • Linux/Unix • VS Code    
 
-**Core Skills**
-Full-Stack Development • REST APIs • Automated Testing • CI/CD • JWT Authentication • OOP • Data Structures & Algorithms • Debugging • Responsive UI Development
+**Core Skills**     
+Full-Stack Development • REST APIs • Automated Testing • CI/CD • JWT Authentication • OOP • Data Structures & Algorithms • Debugging • Responsive UI Development     
+
 ---
 
 ## 🌍 Open Source Contributions
