@@ -83,6 +83,8 @@ Full-stack inventory management platform for small businesses with automated sto
 🌐 [Live Demo](https://inventra-frontend-alpha.vercel.app) | 
 📖 [API Docs](https://inventra-api-ernr.onrender.com/docs)
 
+---
+
 ### ⚙️ MLH Production Engineering Hackathon — Flask REST API
 Built a production-grade REST API completing the Reliability, Scalability, and Incident Response quest tracks.
 
