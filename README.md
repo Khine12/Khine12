@@ -14,7 +14,7 @@ My recent work spans production-grade backend systems, collaborative full-stack 
 I built Inventra, a full-stack inventory and sales management platform with JWT auth, automated email receipts via Resend, daily stock alerts with APScheduler, and a React/TypeScript analytics dashboard — deployed across 4 cloud services with CI/CD.     
 I also built a Flask REST API during the MLH Production Engineering Hackathon that sustained 500 concurrent users at 76 RPS with zero failures using Redis caching, Nginx load balancing, and Docker.         
 I'm contributing to Submitty, an open-source university grading platform, with 5 pull requests across grading, privacy, and access control systems.       
-As a collaborative project, I'm building ShiftSync — a shift scheduling platform using Next.js, Express.js, and PostgreSQL.     
+As a collaborative project, I built ShiftSync — a shift scheduling platform using Next.js, Express.js, and PostgreSQL.     
 Currently completing CodePath's Advanced Technical Interview Prep while actively pursuing Software Engineering internships.          
 
 ---
