@@ -9,15 +9,12 @@
 
 ## 🚀 About Me
 
-I enjoy building software that solves real problems with clean architecture and reliable functionality. My recent work spans production-grade backend systems, collaborative full-stack applications, and open source contributions to platforms used by thousands of users.
-
-I built a **Flask REST API** during the MLH Production Engineering Hackathon that sustained 500 concurrent users at 76 RPS with zero failures using Redis caching, Nginx load balancing, and Docker. 
-
-I'm also contributing to **Submitty**, an open-source university grading platform, with 5 pull requests covering Cypress E2E testing, PHP bug fixes, and access control improvements. 
-
-As a collaborative project, I'm building **ShiftSync** — a shift scheduling platform using Next.js, Express.js, and PostgreSQL.
-
-Currently completing **CodePath's Advanced Technical Interview Prep** while actively pursuing Software Engineering internships.
+I enjoy building software that solves real problems with clean architecture and reliable functionality.     
+My recent work spans production-grade backend systems, collaborative full-stack applications, and open source contributions to platforms used by thousands of users.   
+I built Inventra, a full-stack inventory and sales management platform with JWT auth, automated email receipts via Resend, daily stock alerts with APScheduler, and a React/TypeScript analytics dashboard — deployed across 4 cloud services with CI/CD.     
+I also built a Flask REST API during the MLH Production Engineering Hackathon that sustained 500 concurrent users at 76 RPS with zero failures using Redis caching, Nginx load balancing, and Docker.         
+I'm contributing to Submitty, an open-source university grading platform, with 5 pull requests across grading, privacy, and access control systems. As a collaborative project, I'm building ShiftSync — a shift scheduling platform using Next.js, Express.js, and PostgreSQL.     
+Currently completing CodePath's Advanced Technical Interview Prep while actively pursuing Software Engineering internships.          
 
 ---
 
@@ -43,8 +40,8 @@ Full-Stack Development • REST APIs • Automated Testing • CI/CD • JWT Aut
 Open source course management and grading platform used by universities worldwide.
 
 **Contributions:**
-- Contributed 5 pull requests (1 merged, 4 in review) improving testing infrastructure, grading workflows, and access control in a production platform serving thousands of students and instructors
-- Fixed a PHP bug in SubmissionController.php where bulk upload file conflict detection assumed filenames always contain a dot, causing silent merge failures
+- Contributed 5 pull requests across grading, privacy, and access control systems in a production platform serving thousands of students and instructors    
+- Fixed a PHP bug in SubmissionController.php where bulk upload file conflict detection assumed filenames always contain a dot, causing silent merge failures  
 - Developed Cypress E2E tests validating privacy protections and grading workflows across student, TA, and instructor roles
 - Fixed forum access control incorrectly excluding limited-access graders from staff functionality
 - Expanded bulk upload sample datasets to improve automated grading test coverage
@@ -61,7 +58,7 @@ Open source course management and grading platform used by universities worldwid
 | [#12562](https://github.com/Submitty/Submitty/pull/12562) | Legal name privacy tests across roles | 🔄 In Review |
 | [#12571](https://github.com/Submitty/Submitty/pull/12571) | Bulk upload sample dataset expansion | 🔄 In Review |
 | [#12607](https://github.com/Submitty/Submitty/pull/12607) | PHP bug fix for file conflict detection | 🔄 In Review |
-| [#12715](https://github.com/Submitty/Submitty/pull/12715) | Forum access control audit | 🔄 In Review |
+| [#12715](https://github.com/Submitty/Submitty/pull/12715) | Forum access control audit | 🔴 Closed — maintainer determined behavior was intentional |
 
 ---
 
