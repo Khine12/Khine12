@@ -63,6 +63,25 @@ Open source course management and grading platform used by universities worldwid
 
 ---
 
+### 🌵 Hyperledger Cacti
+Open source blockchain interoperability framework under LF Decentralized Trust,
+used across enterprise and academic blockchain networks.
+
+Contributions:
+- Contributing to the Cacti Cleanup Initiative — auditing and updating 
+  pre-merger documentation to align with the current Cacti architecture
+- Updated outdated "Hyperledger Cactus" references to "Hyperledger Cacti" 
+  across core documentation files, improving contributor onboarding clarity
+- Fixed a typo ("strecture" → "structure") in contributing.md
+
+Pull Requests:
+| PR | Description | Status |
+|----|-------------|--------|
+| #4267 | docs: update Cactus references to Cacti in contributing.md | 🔄 In Review |
+| #4268 | docs: update Cactus references to Cacti in build.md | 🔄 In Review |
+
+---
+
 ## 🌟 Featured Projects
 
 ### 📦 Inventra — Inventory & Sales Management Platform
@@ -178,7 +197,7 @@ Associate Degree, 2025 | GPA: 3.7 | Transferred with Honors
 
 ## ⚡ Current Focus
 - Preparing for Software Engineering internships
-- Contributing to open source
+- Contributing to Hyperledger Cacti (LF Decentralized Trust) and Submitty
 - Building real-world full-stack systems
 - Practicing Data Structures & Algorithms
 
