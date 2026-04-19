@@ -63,7 +63,7 @@ Open source course management and grading platform used by universities worldwid
 
 ---
 
-### 🌵 Hyperledger Cacti
+### Hyperledger Cacti
 Open source blockchain interoperability framework under LF Decentralized Trust,
 used across enterprise and academic blockchain networks.
 
