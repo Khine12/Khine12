@@ -54,23 +54,22 @@ Open source course management and grading platform used by universities worldwid
 
 | PR | Description | Status |
 |---|---|---|
-| #12535 | Cypress E2E tests for overridden grade banner | ✅ Merged |
-| #12562 | Legal name privacy tests across roles | 🔄 In Review |
-| #12571 | Bulk upload sample dataset expansion | 🔄 In Review |
-| #12607 | PHP bug fix for file conflict detection | 🔄 In Review |
-| #12715 | Forum access control audit | 🔴 Closed — behavior was intentional |
+| [#12535](https://github.com/Submitty/Submitty/pull/12535) | Cypress E2E tests for overridden grade banner | ✅ Merged |
+| [#12562](https://github.com/Submitty/Submitty/pull/12562) | Legal name privacy tests across roles | 🔄 In Review |
+| [#12571](https://github.com/Submitty/Submitty/pull/12571) | Bulk upload sample dataset expansion | 🔄 In Review |
+| [#12607](https://github.com/Submitty/Submitty/pull/12607) | PHP bug fix for file conflict detection | 🔄 In Review |
+| [#12715](https://github.com/Submitty/Submitty/pull/12715) | Forum access control audit | 🔴 Closed — behavior was intentional |
 
-### Hyperledger Cacti
-Open source blockchain interoperability framework under LF Decentralized Trust.
+### Hyperledger Cacti              
+Open source blockchain interoperability framework under LF Decentralized Trust.           
 
-**Contributions:**
-- Contributing to the Cacti Cleanup Initiative — auditing and updating pre-merger documentation
-- Updated outdated "Hyperledger Cactus" references to "Hyperledger Cacti" across core documentation files
+**Contributions:**         
+- Updated outdated "Hyperledger Cactus" references to "Hyperledger Cacti" across core documentation files            
 
 | PR | Description | Status |
 |---|---|---|
-| #4267 | docs: update Cactus references to Cacti in contributing.md | 🔄 In Review |
-| #4268 | docs: update Cactus references to Cacti in build.md | 🔄 In Review |
+| [#4267](https://github.com/hyperledger/cacti/pull/4267) | docs: update Cactus references to Cacti in contributing.md | 🔴 Closed — change not needed |
+| [#4268](https://github.com/hyperledger/cacti/pull/4268) | docs: update Cactus references to Cacti in build.md | 🔄 In Review |
 
 ---
 
@@ -128,32 +127,32 @@ Web-based scheduling application for small businesses, built as a 3-person team 
 - Fixed a bug where managers weren't automatically added to team membership on team creation
 - Fixed authentication state management across the frontend navbar
 
-[📂 GitHub](https://github.com/Khine12)
+[📂 GitHub](https://github.com/Khine12)            
 
 ---
 
 ## 📚 Technical Training
 
-**CodePath — Advanced Technical Interview Prep** | Feb 2026 - May 2026
+**CodePath — Advanced Technical Interview Prep** | Feb 2026 - May 2026                                    
 Selected for a competitive program focused on data structures, algorithms, and Python problem solving under time constraints.
 
 ---
 
 ## 🎓 Education
 
-**California State Polytechnic University, Pomona**
+**California State Polytechnic University, Pomona**              
 B.S. in Computer Science — Expected Dec 2027 | GPA: 3.7
 
-**Los Angeles City College**
+**Los Angeles City College**                 
 Associate Degree, 2025 | GPA: 3.7 | Transferred with Honors
 
 ---
 
 ## 📫 Connect With Me
 
-🌐 Portfolio: [khine12.github.io](https://khine12.github.io)
-💼 LinkedIn: [linkedin.com/in/khine-zar-hein](https://linkedin.com/in/khine-zar-hein)
-📧 Email: khinezarhein1@gmail.com
+🌐 Portfolio: [khine12.github.io](https://khine12.github.io)             
+💼 LinkedIn: [linkedin.com/in/khine-zar-hein](https://linkedin.com/in/khine-zar-hein)            
+📧 Email: khinezarhein1@gmail.com                     
 
 ---
 
