@@ -127,7 +127,7 @@ Web-based scheduling application for small businesses, built as a 3-person team 
 - Fixed a bug where managers weren't automatically added to team membership on team creation
 - Fixed authentication state management across the frontend navbar
 
-[📂 GitHub](https://github.com/Khine12)            
+[📂 GitHub](https://github.com/Khine12) | [🌐 Live Demo](https://shiftsync13.vercel.app/)      
 
 ---
 
@@ -158,7 +158,7 @@ Associate Degree, 2025 | GPA: 3.7 | Transferred with Honors
 
 ## ⚡ Current Focus
 
-- Building BurmaLingo — targeting July/August 2026 launch
-- Contributing to Hyperledger Cacti and Submitty open source projects
+- Building BurmaLingo — targeting July 2026 launch
+- Contributing to Submitty open source project
 - Preparing for Software Engineering internships
 - Practicing Data Structures & Algorithms (CodePath)
