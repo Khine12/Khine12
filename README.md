@@ -31,7 +31,8 @@ FastAPI • Flask • Express.js • PostgreSQL • Redis • Nginx • Docker �
 React • Next.js • TypeScript • Tailwind CSS • Vite • Recharts • Git • Cypress • Vagrant • Linux/Unix • VS Code            
 
 **Core Skills**    
-Full-Stack Development • MVC Architecture • LLM Integration • REST APIs • Automated Testing • CI/CD • JWT Authentication • Data Structures & Algorithms           
+Full-Stack Development • MVC Architecture • LLM Integration • REST APIs • Automated Testing • CI/CD • JWT Authentication • Data Structures & Algorithms 
+
 ---
 
 ## 🌍 Open Source Contributions
