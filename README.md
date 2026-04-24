@@ -98,7 +98,7 @@ Full-stack inventory management platform for small businesses with automated sto
 - Added APScheduler to email sellers daily about low-stock and expiring items — no manual trigger
 - Deployed across 4 cloud services with GitHub Actions CI/CD running 9 pytest tests on every push
 
-[📂 Backend](https://github.com/Khine12) | [📂 Frontend](https://github.com/Khine12) | [🌐 Live Demo](https://khine12.github.io)
+[📂 Backend](https://github.com/Khine12/inventra) | [📂 Frontend](https://github.com/Khine12/inventra-frontend) | [🌐 Live Demo](https://inventra-frontend-alpha.vercel.app/login)
 
 ---
 
@@ -111,7 +111,7 @@ Production-grade REST API completing the Reliability, Scalability, and Incident 
 - Structured JSON logging, live metrics endpoint, Discord alerting with auto-recovery detection
 - 83% pytest coverage across 19 tests, GitHub Actions CI/CD with Docker Compose
 
-[📂 GitHub](https://github.com/Khine12)
+[📂 GitHub](https://github.com/Khine12/PE-Hackathon-Template-2026)
 
 ---
 
@@ -124,7 +124,7 @@ Web-based scheduling application for small businesses, built as a 3-person team 
 - Fixed a bug where managers weren't automatically added to team membership on team creation
 - Fixed authentication state management across the frontend navbar
 
-[📂 GitHub](https://github.com/Khine12) | [🌐 Live Demo](https://shiftsync13.vercel.app/)      
+[📂 GitHub](https://github.com/TAndronaco/CS4800-Worker-Schedule-Project) | [🌐 Live Demo](https://shiftsync13.vercel.app/)      
 
 ---
 
