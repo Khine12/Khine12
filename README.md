@@ -57,16 +57,17 @@ Open source course management and grading platform used by universities worldwid
 | [#12607](https://github.com/Submitty/Submitty/pull/12607) | PHP bug fix for file conflict detection | 🔄 In Review |
 | [#12715](https://github.com/Submitty/Submitty/pull/12715) | Forum access control audit | 🔴 Closed — behavior was intentional |
 
-### Hyperledger Cacti              
-Open source blockchain interoperability framework under LF Decentralized Trust.           
+---
 
-**Contributions:**         
-- Updated outdated "Hyperledger Cactus" references to "Hyperledger Cacti" across core documentation files            
+## LiteLLM
+Open source AI Gateway used by thousands of companies to route requests across 100+ LLM providers (45K+ GitHub stars).
+
+**Contributions:**
+- Fixed metadata field mismatch in team callback endpoints where GET/DELETE read from `metadata["callback_settings"]` while callbacks are stored under `metadata["logging"]`, causing callbacks to always return empty
 
 | PR | Description | Status |
-|---|---|---|
-| [#4267](https://github.com/hyperledger/cacti/pull/4267) | docs: update Cactus references to Cacti in contributing.md | 🔴 Closed — change not needed |
-| [#4268](https://github.com/hyperledger/cacti/pull/4268) | docs: update Cactus references to Cacti in build.md | 🔄 In Review |
+|----|-------------|--------|
+| [#26926](https://github.com/BerriAI/litellm/pull/26926) | fix: team callback endpoint reads from correct metadata field | 🔄 In Review |
 
 ---
 
