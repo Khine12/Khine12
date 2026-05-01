@@ -47,6 +47,8 @@ Open source AI Gateway used by thousands of companies to route requests across 1
 |----|-------------|--------|
 | [#26926](https://github.com/BerriAI/litellm/pull/26926) | fix: team callback endpoint reads from correct metadata field | 🔄 In Review |
 
+---
+
 ### Submitty
 Open source course management and grading platform used by universities worldwide.
 
@@ -129,7 +131,7 @@ Web-based scheduling application for small businesses, built as a 3-person team 
 
 ## 📚 Technical Training
 
-**CodePath — Advanced Technical Interview Prep** | Feb 2026 - May 2026                                    
+**CodePath — Advanced Technical Interview Prep** | Feb 2026 - April 2026                                    
 Selected for a competitive program focused on data structures, algorithms, and Python problem solving under time constraints.
 
 ---
@@ -155,6 +157,6 @@ Associate Degree, 2025 | GPA: 3.7 | Transferred with Honors
 ## ⚡ Current Focus
 
 - Building BurmaLingo — targeting July 2026 launch
-- Contributing to Submitty open source project
+- Contributing to LiteLLM and Submitty open source projects
 - Preparing for Software Engineering internships
-- Practicing Data Structures & Algorithms (CodePath)
+- Practicing Data Structures & Algorithms 
