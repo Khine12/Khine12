@@ -37,6 +37,16 @@ Full-Stack Development • MVC Architecture • LLM Integration • REST APIs �
 
 ## 🌍 Open Source Contributions
 
+## LiteLLM
+Open source AI Gateway used by thousands of companies to route requests across 100+ LLM providers (45K+ GitHub stars).
+
+**Contributions:**
+- Fixed metadata field mismatch in team callback endpoints where GET/DELETE read from `metadata["callback_settings"]` while callbacks are stored under `metadata["logging"]`, causing callbacks to always return empty
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#26926](https://github.com/BerriAI/litellm/pull/26926) | fix: team callback endpoint reads from correct metadata field | 🔄 In Review |
+
 ### Submitty
 Open source course management and grading platform used by universities worldwide.
 
@@ -56,18 +66,6 @@ Open source course management and grading platform used by universities worldwid
 | [#12571](https://github.com/Submitty/Submitty/pull/12571) | Bulk upload sample dataset expansion | 🔄 In Review |
 | [#12607](https://github.com/Submitty/Submitty/pull/12607) | PHP bug fix for file conflict detection | 🔄 In Review |
 | [#12715](https://github.com/Submitty/Submitty/pull/12715) | Forum access control audit | 🔴 Closed — behavior was intentional |
-
----
-
-## LiteLLM
-Open source AI Gateway used by thousands of companies to route requests across 100+ LLM providers (45K+ GitHub stars).
-
-**Contributions:**
-- Fixed metadata field mismatch in team callback endpoints where GET/DELETE read from `metadata["callback_settings"]` while callbacks are stored under `metadata["logging"]`, causing callbacks to always return empty
-
-| PR | Description | Status |
-|----|-------------|--------|
-| [#26926](https://github.com/BerriAI/litellm/pull/26926) | fix: team callback endpoint reads from correct metadata field | 🔄 In Review |
 
 ---
 
