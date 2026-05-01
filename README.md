@@ -133,7 +133,7 @@ Web-based scheduling application for small businesses, built as a 3-person team 
 ## 📚 Technical Training
 
 **CodePath — Advanced Technical Interview Prep** | Feb 2026 - April 2026                                    
-Selected for a competitive program focused on data structures, algorithms, and Python problem solving under time constraints.
+Completed a competitive program focused on data structures, algorithms, and Python-based problem solving under time constraints.
 
 ---
 
