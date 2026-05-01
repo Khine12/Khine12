@@ -9,13 +9,14 @@
 
 ## 🚀 About Me
 
-I  enjoy building software that solves real problems with clean architecture and reliable functionality.
+I enjoy building software that solves real problems with clean architecture and reliable functionality.
 
-- Building BurmaLingo — an English learning web app for Burmese speakers where structured classes cost half a month's salary in Myanmar. 10-level curriculum, SM-2 spaced repetition built from scratch, OpenAI GPT-4o-mini for AI feedback, Stripe billing. Live at burmalingo.vercel.app
-- Built Inventra, a full-stack inventory and sales platform with JWT auth, automated email receipts via Resend, daily stock alerts with APScheduler, and a React/TypeScript analytics dashboard — deployed across 4 cloud services with CI/CD
+- Building BurmaLingo — an English learning web app for Burmese speakers where structured classes cost half a month's salary in Myanmar. 10-level curriculum, SM-2 spaced repetition built from scratch, OpenAI GPT-4o-mini for AI feedback, Stripe billing. Live at burmalingo.vercel.app  
+- Built Inventra, a full-stack inventory and sales platform with JWT auth, automated email receipts via Resend, daily stock alerts with APScheduler, and a React/TypeScript analytics dashboard — deployed across 4 cloud services with CI/CD 
 - Built a Flask REST API during the MLH Production Engineering Hackathon that sustained 500 concurrent users at 76 RPS with zero failures using Redis caching, Nginx load balancing, and Docker
+- Contributing to LiteLLM (45K+ stars), an AI gateway used by thousands of companies — fixed a metadata field mismatch in team callback endpoints causing callbacks to always return empty             
 - Contributing to Submitty, an open-source university grading platform, with 4 pull requests across grading, privacy, and access control systems
-- Currently completing CodePath's Advanced Technical Interview Prep while actively pursuing Software Engineering internships
+- Completed CodePath's Advanced Technical Interview Prep (Feb – April 2026) while actively pursuing Software Engineering internships
 
 ---
 
