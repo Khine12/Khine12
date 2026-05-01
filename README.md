@@ -160,4 +160,4 @@ Associate Degree, 2025 | GPA: 3.7 | Transferred with Honors
 - Building BurmaLingo — targeting July 2026 launch
 - Contributing to LiteLLM and Submitty open source projects
 - Preparing for Software Engineering internships
-- Practicing Data Structures & Algorithms 
+- Practicing Data Structures & Algorithms, SQL on Leetcode and Neetcode
