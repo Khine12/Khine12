@@ -37,7 +37,7 @@ Full-Stack Development • MVC Architecture • LLM Integration • REST APIs �
 
 ## 🌍 Open Source Contributions
 
-## LiteLLM
+### LiteLLM
 Open source AI Gateway used by thousands of companies to route requests across 100+ LLM providers (45K+ GitHub stars).
 
 **Contributions:**
