@@ -75,18 +75,20 @@ Open source course management and grading platform used by universities worldwid
 ## 🌟 Featured Projects
 
 ### 🌏 BurmaLingo — English Learning Web App for Burmese Speakers
-In Myanmar, a single level of English class from a well-known teacher costs roughly half a month's basic salary — for a seat in a 100-person Zoom class where the teacher doesn't know your name. Cheaper video courses cover only one level with no structured progression. Other apps weren't built for Burmese speakers. BurmaLingo is the structured, affordable alternative.
+In Myanmar, a single level of English class from a well-known teacher costs roughly half a month's basic salary — for a seat in a 100-person Zoom class where the teacher doesn't know your name. Cheaper video courses cover only one level with no structured progression. Other apps weren't built for Burmese speakers. BurmaLingo is the structured, affordable alternative — built by a Burmese immigrant who lived this problem from both sides.
+Stack: React • TypeScript • Tailwind CSS • FastAPI • PostgreSQL • JWT • OpenAI GPT-4o • Stripe • GitHub Actions → Vercel + Railway
 
-**Stack:** TypeScript • Tailwind CSS • FastAPI • PostgreSQL • MVC • JWT • OpenAI API • GitHub Actions
+6-level curriculum (Basic through IELTS Preparation) with automatic placement test
+Grammar practice, reading comprehension, vocabulary, and daily phrases across Basic, Elementary, and Pre-Intermediate levels — one question at a time with instant feedback
+General Writing with AI feedback — grammar corrections, star rating, model answer, and relevance check to detect off-topic answers
+IELTS Writing Practice with GPT-4o band scoring across all 4 criteria and specific improvement suggestions referencing the student's actual writing
+IELTS Reading with True/False/Not Given, multiple choice, fill-in-blank, and paragraph matching
+Stripe subscription billing ($5/month) with webhook-based tier access control + manual upgrade for Myanmar users via Facebook
+XP system with daily streak tracking, weekly goals, and progression levels
+Admin dashboard for manual Pro upgrades, user management, and feedback review
+CI/CD pipeline with GitHub Actions running pytest and TypeScript build checks on every push   
 
--10-level curriculum (Beginner I through IELTS Practice) with placement test on signup            
--SM-2 spaced repetition algorithm implemented from scratch for vocabulary scheduling              
--Integrated OpenAI GPT-4o-mini for AI writing and translation feedback — server-side rate limiting enforces free vs paid access    
--Stripe subscription billing with webhook-based free/pro tier access control         
--MVC architecture — SQLAlchemy models, FastAPI routers as controllers, React frontend as view layer        
--CI/CD pipeline with GitHub Actions running pytest and TypeScript build checks on every push         
-
-[📂 GitHub](https://github.com/Khine12/burmalingo) | [🌐 Live](https://burmalingo.vercel.app)
+[📂 GitHub](https://github.com/Khine12/burmalingo) | [🌐 Live](https://burmalingo.vercel.app) | Target launch: May 31 – June 1, 2026
 
 ---
 
@@ -157,7 +159,7 @@ Associate Degree, 2025 | GPA: 3.7 | Transferred with Honors
 
 ## ⚡ Current Focus
 
-- Building BurmaLingo — targeting July 2026 launch
+- Building BurmaLingo — Target launch: May 31 – June 1, 2026
 - Contributing to LiteLLM and Submitty open source projects
 - Preparing for Software Engineering internships
 - Practicing Data Structures & Algorithms, SQL on Leetcode and Neetcode
