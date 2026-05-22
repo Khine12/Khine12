@@ -22,7 +22,7 @@ I enjoy building software that solves real problems with clean architecture and 
 
 ## 💼 Work Experience
 
-**Teaching Fellow · CodePath** *(Part-time · May 2026 – Present)*
+**Teaching Fellow · CodePath** *(Part-time · May 2026 – Present)*                  
 Supporting students through CodePath's AI course as a paid Teaching Fellow.
 
 ---
@@ -143,17 +143,17 @@ Web-based scheduling application for small businesses, built as a 3-person team 
 
 ## 📚 Technical Training
 
-**CodePath — Advanced Technical Interview Prep** | Feb 2026 – Apr 2026
+**CodePath — Advanced Technical Interview Prep** | Feb 2026 – Apr 2026            
 Completed a competitive program focused on data structures, algorithms, and Python-based problem solving under time constraints.
 
 ---
 
 ## 🎓 Education
 
-**California State Polytechnic University, Pomona**
+**California State Polytechnic University, Pomona**     
 B.S. in Computer Science — Expected Dec 2027 | GPA: 3.7
 
-**Los Angeles City College**
+**Los Angeles City College**          
 Associate Degree, 2025 | GPA: 3.7 | Transferred with Honors
 
 ---
