@@ -11,28 +11,35 @@
 
 I enjoy building software that solves real problems with clean architecture and reliable functionality.
 
-- Building BurmaLingo — an English learning web app for Burmese speakers where structured classes cost half a month's salary in Myanmar. 10-level curriculum, SM-2 spaced repetition built from scratch, OpenAI GPT-4o-mini for AI feedback, Stripe billing. Live at burmalingo.vercel.app  
-- Built Inventra, a full-stack inventory and sales platform with JWT auth, automated email receipts via Resend, daily stock alerts with APScheduler, and a React/TypeScript analytics dashboard — deployed across 4 cloud services with CI/CD 
+- Building BurmaLingo — an English learning web app for Burmese speakers where structured classes cost half a month's salary in Myanmar. 6-level curriculum (Basic through IELTS Preparation), AI writing feedback and IELTS band scoring via OpenAI GPT-4o, Stripe billing with webhook-based tier control. Live at burmalingo.vercel.app
+- Built Inventra, a full-stack inventory and sales platform with JWT auth, automated email receipts via Resend, daily stock alerts with APScheduler, and a React/TypeScript analytics dashboard — deployed across 4 cloud services with CI/CD
 - Built a Flask REST API during the MLH Production Engineering Hackathon that sustained 500 concurrent users at 76 RPS with zero failures using Redis caching, Nginx load balancing, and Docker
-- Contributing to LiteLLM (45K+ stars), an AI gateway used by thousands of companies — fixed a metadata field mismatch in team callback endpoints causing callbacks to always return empty             
+- Contributing to LiteLLM (45K+ stars), an AI gateway used by thousands of companies — fixed a metadata field mismatch in team callback endpoints causing callbacks to always return empty
 - Contributing to Submitty, an open-source university grading platform, with 4 pull requests across grading, privacy, and access control systems
 - Completed CodePath's Advanced Technical Interview Prep (Feb – April 2026) while actively pursuing Software Engineering internships
 
 ---
 
+## 💼 Work Experience
+
+**Teaching Fellow · CodePath** *(Part-time · May 2026 – Present)*
+Supporting students through CodePath's AI course as a paid Teaching Fellow.
+
+---
+
 ## 💻 Technical Skills
 
-**Languages**           
-Java • Python • JavaScript • TypeScript • PHP • SQL • HTML • CSS         
+**Languages**
+Java • Python • JavaScript • TypeScript • PHP • SQL • HTML • CSS
 
-**Backend & Infrastructure**     
-FastAPI • Flask • Express.js • PostgreSQL • Redis • Nginx • Docker • Gunicorn • SQLAlchemy • APScheduler • Resend API • OpenAI API • GitHub Actions   
+**Backend & Infrastructure**
+FastAPI • Flask • Express.js • PostgreSQL • Redis • Nginx • Docker • Gunicorn • SQLAlchemy • APScheduler • Resend API • OpenAI API • GitHub Actions
 
 **Frontend & Tools**
-React • Next.js • TypeScript • Tailwind CSS • Vite • Recharts • Git • Cypress • Vagrant • Linux/Unix • VS Code            
+React • Next.js • TypeScript • Tailwind CSS • Vite • Recharts • Git • Cypress • Vagrant • Linux/Unix • VS Code
 
-**Core Skills**    
-Full-Stack Development • MVC Architecture • LLM Integration • REST APIs • Automated Testing • CI/CD • JWT Authentication • Data Structures & Algorithms 
+**Core Skills**
+Full-Stack Development • MVC Architecture • LLM Integration • REST APIs • Automated Testing • CI/CD • JWT Authentication • Data Structures & Algorithms
 
 ---
 
@@ -76,17 +83,18 @@ Open source course management and grading platform used by universities worldwid
 
 ### 🌏 BurmaLingo — English Learning Web App for Burmese Speakers
 In Myanmar, a single level of English class from a well-known teacher costs roughly half a month's basic salary — for a seat in a 100-person Zoom class where the teacher doesn't know your name. Cheaper video courses cover only one level with no structured progression. Other apps weren't built for Burmese speakers. BurmaLingo is the structured, affordable alternative — built by a Burmese immigrant who lived this problem from both sides.
-Stack: React • TypeScript • Tailwind CSS • FastAPI • PostgreSQL • JWT • OpenAI GPT-4o • Stripe • GitHub Actions → Vercel + Railway
 
-6-level curriculum (Basic through IELTS Preparation) with automatic placement test
-Grammar practice, reading comprehension, vocabulary, and daily phrases across Basic, Elementary, and Pre-Intermediate levels — one question at a time with instant feedback
-General Writing with AI feedback — grammar corrections, star rating, model answer, and relevance check to detect off-topic answers
-IELTS Writing Practice with GPT-4o band scoring across all 4 criteria and specific improvement suggestions referencing the student's actual writing
-IELTS Reading with True/False/Not Given, multiple choice, fill-in-blank, and paragraph matching
-Stripe subscription billing ($5/month) with webhook-based tier access control + manual upgrade for Myanmar users via Facebook
-XP system with daily streak tracking, weekly goals, and progression levels
-Admin dashboard for manual Pro upgrades, user management, and feedback review
-CI/CD pipeline with GitHub Actions running pytest and TypeScript build checks on every push   
+**Stack:** React • TypeScript • Tailwind CSS • FastAPI • PostgreSQL • JWT • OpenAI GPT-4o • Stripe • GitHub Actions → Vercel + Railway
+
+- 6-level curriculum (Basic through IELTS Preparation) with automatic placement test
+- Grammar practice, reading comprehension, vocabulary, and daily phrases across Basic, Elementary, and Pre-Intermediate levels — one question at a time with instant feedback
+- General Writing with AI feedback — grammar corrections, star rating, model answer, and relevance check to detect off-topic answers
+- IELTS Writing Practice with GPT-4o band scoring across all 4 criteria and specific improvement suggestions referencing the student's actual writing
+- IELTS Reading with True/False/Not Given, multiple choice, fill-in-blank, and paragraph matching
+- Stripe subscription billing ($5/month) with webhook-based tier access control + manual upgrade for Myanmar users via Facebook
+- XP system with daily streak tracking, weekly goals, and progression levels
+- Admin dashboard for manual Pro upgrades, user management, and feedback review
+- CI/CD pipeline with GitHub Actions running pytest and TypeScript build checks on every push
 
 [📂 GitHub](https://github.com/Khine12/burmalingo) | [🌐 Live](https://burmalingo.vercel.app) | Target launch: May 31 – June 1, 2026
 
@@ -125,41 +133,43 @@ Web-based scheduling application for small businesses, built as a 3-person team 
 **Stack:** Next.js (TypeScript) • Express.js (TypeScript) • PostgreSQL • JWT Authentication
 
 - Designed and implemented a Messenger-style in-app messaging system with persistent PostgreSQL storage
+- Built pricing, payroll, and earnings frontend pages
 - Fixed a bug where managers weren't automatically added to team membership on team creation
 - Fixed authentication state management across the frontend navbar
 
-[📂 GitHub](https://github.com/TAndronaco/CS4800-Worker-Schedule-Project) | [🌐 Live Demo](https://shiftsync13.vercel.app/)      
+[📂 GitHub](https://github.com/TAndronaco/CS4800-Worker-Schedule-Project) | [🌐 Live Demo](https://shiftsync13.vercel.app/)
 
 ---
 
 ## 📚 Technical Training
 
-**CodePath — Advanced Technical Interview Prep** | Feb 2026 - April 2026                                    
+**CodePath — Advanced Technical Interview Prep** | Feb 2026 – Apr 2026
 Completed a competitive program focused on data structures, algorithms, and Python-based problem solving under time constraints.
 
 ---
 
 ## 🎓 Education
 
-**California State Polytechnic University, Pomona**              
+**California State Polytechnic University, Pomona**
 B.S. in Computer Science — Expected Dec 2027 | GPA: 3.7
 
-**Los Angeles City College**                 
+**Los Angeles City College**
 Associate Degree, 2025 | GPA: 3.7 | Transferred with Honors
 
 ---
 
 ## 📫 Connect With Me
 
-🌐 Portfolio: [khine12.github.io](https://khine12.github.io)             
-💼 LinkedIn: [linkedin.com/in/khine-zar-hein](https://linkedin.com/in/khine-zar-hein)            
-📧 Email: khinezarhein1@gmail.com                     
+🌐 Portfolio: [khine12.github.io](https://khine12.github.io)
+💼 LinkedIn: [linkedin.com/in/khine-zar-hein](https://linkedin.com/in/khine-zar-hein)
+📧 Email: khinezarhein1@gmail.com
 
 ---
 
 ## ⚡ Current Focus
 
+- Teaching Fellow at CodePath (May 2026 – Present)
 - Building BurmaLingo — Target launch: May 31 – June 1, 2026
+- Actively seeking Software Engineering internship opportunities
 - Contributing to LiteLLM and Submitty open source projects
-- Preparing for Software Engineering internships
-- Practicing Data Structures & Algorithms, SQL on Leetcode and Neetcode
+- Practicing Data Structures & Algorithms on LeetCode and NeetCode
