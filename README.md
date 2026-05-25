@@ -1,18 +1,18 @@
 # Khine Zar Hein
 
-**Full-Stack Developer · Open Source Contributor · CS @ Cal Poly Pomona (Dec 2027)**
+**Full-Stack Developer · Open Source Contributor · CS @ Cal Poly Pomona (Expected Dec 2027)**
 
 West Covina, CA · [khinezarhein1@gmail.com](mailto:khinezarhein1@gmail.com) · [LinkedIn](https://linkedin.com/in/khine-zar-hein) · [Portfolio](https://khine12.github.io)
 
 ---
 
-I moved to the US from Myanmar in 2023, self-taught English through immersion, and transferred from community college with honors. I build production software that solves problems I've lived — and contribute to open source projects used by thousands of people.
+I moved to the US from Myanmar in 2023, self-taught English, and transferred from community college with honors. I build production software that solves problems I've lived — and contribute to open source projects used by thousands of people.
 
 ---
 
 ## Work Experience
 
-### [BurmaLingo](https://burmalingo.vercel.app) — Founder & Full-Stack Developer · Apr 2026 – Present
+**BurmaLingo — Founder & Full-Stack Developer**  · Apr 2026 – Present
 
 In Myanmar, one level of English class from a reputable teacher costs roughly half a month's basic salary — for a seat in a 100-person Zoom call where the teacher doesn't know your name. I went through every stage of that system before moving here. BurmaLingo is the structured, affordable alternative — built by someone who lived the problem from both sides.
 
@@ -28,24 +28,24 @@ In Myanmar, one level of English class from a reputable teacher costs roughly ha
 
 ---
 
-### Teaching Fellow · CodePath · May 2026 – Present
-Technical mentorship for students in CodePath's Applied AI (AI 110) course.
+**Teaching Fellow · CodePath** · May 2026 – Present
+Technical mentorship for students in CodePath's Applied AI course.
 
-### Research Contributor · Dr. Steichen's HCI Lab, Cal Poly Pomona · May 2026 – Present
+**Research Contributor · Dr. Steichen's HCI Lab, Cal Poly Pomona** · May 2026 – Present
 Migrating a Flutter multilingual math-language learning app to React/Next.js for K-5 bilingual students across California schools.
 
 ---
 
 ## Open Source
 
-### [LiteLLM](https://github.com/BerriAI/litellm) · 45K+ ⭐
+### LiteLLM · 45K+ ⭐
 AI gateway for routing requests across 100+ LLM providers.
 
 | PR | Description | Status |
 |----|-------------|--------|
 | [#26926](https://github.com/BerriAI/litellm/pull/26926) | Fix metadata field mismatch in team callback endpoints — GET/DELETE read from wrong key, causing callbacks to always return empty | 🔄 In Review |
 
-### [Submitty](https://github.com/Submitty/Submitty) · Production university grading platform
+### Submitty · Production university grading platform
 
 | PR | Description | Status |
 |----|-------------|--------|
@@ -59,7 +59,7 @@ AI gateway for routing requests across 100+ LLM providers.
 
 ## Featured Projects
 
-### [Inventra](https://github.com/Khine12/inventra) — Inventory & Sales Management Platform
+### Inventra — Inventory & Sales Management Platform
 `Python` `FastAPI` `PostgreSQL` `React` `TypeScript` `JWT` `Resend` `APScheduler` `pytest` `GitHub Actions`
 
 - Production REST API with automatic stock deduction, server-side negative stock guard, and email receipts via Resend after every transaction
@@ -67,26 +67,28 @@ AI gateway for routing requests across 100+ LLM providers.
 - Recharts analytics dashboard visualizing revenue, cost, profit, and stock trends over time
 - Deployed across 4 cloud services with GitHub Actions CI/CD
 
-[Backend](https://github.com/Khine12/inventra) · [Frontend](https://github.com/Khine12/inventra-frontend) · [Live](https://inventra-frontend-alpha.vercel.app/login)
+[GitHubBackend](https://github.com/Khine12/inventra) · [GitHubFrontend](https://github.com/Khine12/inventra-frontend) · [Live](https://inventra-frontend-alpha.vercel.app/login)
 
 ---
 
-### [MLH Production Engineering Hackathon](https://github.com/Khine12/PE-Hackathon-Template-2026) — Flask REST API
+### MLH Production Engineering Hackathon — Flask REST API
 `Python` `Flask` `PostgreSQL` `Redis` `Nginx` `Docker` `Locust` `pytest` `GitHub Actions`
 
 - Redis caching + Nginx load balancing across 2 Gunicorn containers — 500 concurrent users at 76 RPS, 0 failures
 - Structured JSON logging, live metrics endpoint, Discord alerting with auto-recovery detection
 - 83% pytest coverage across 19 tests · Reliability Gold, Scalability Gold, Incident Response Silver
 
+[GitHub](https://github.com/Khine12/PE-Hackathon-Template-2026)
+
 ---
 
-### [ShiftSync](https://github.com/TAndronaco/CS4800-Worker-Schedule-Project) — Shift Scheduling Platform *(3-person team)*
+### ShiftSync — Shift Scheduling Platform *(3-person team)*
 `Next.js` `TypeScript` `Express.js` `PostgreSQL` `JWT`
 
 - Built Messenger-style in-app messaging system with persistent PostgreSQL storage
 - Built pricing, payroll, and earnings frontend pages
 
-[Live](https://shiftsync13.vercel.app/)
+[GitHub](https://github.com/TAndronaco/CS4800-Worker-Schedule-Project) | [Live](https://shiftsync13.vercel.app/)
 
 ---
 
@@ -104,9 +106,9 @@ AI gateway for routing requests across 100+ LLM providers.
 
 ## Education & Training
 
-**Cal Poly Pomona** · B.S. Computer Science + Data Science minor · GPA 3.72 · Dec 2027
-**Los Angeles City College** · A.A. · GPA 3.7 · Transferred with Honors · 2025
-**CodePath** · Advanced Technical Interview Prep · Feb – Apr 2026
+**Cal Poly Pomona** · B.S. Computer Science + Data Science minor · GPA 3.72 · Expected Dec 2027            
+**Los Angeles City College** · A.A. · GPA 3.7 · Transferred with Honors · 2025                          
+**CodePath** · Advanced Technical Interview Prep · Feb – Apr 2026              
 
 ---
 
