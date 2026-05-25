@@ -31,6 +31,8 @@ In Myanmar, one level of English class from a reputable teacher costs roughly ha
 **Teaching Fellow · CodePath** · May 2026 – Present
 Technical mentorship for students in CodePath's Applied AI course.
 
+---
+
 **Research Contributor · Dr. Steichen's HCI Lab, Cal Poly Pomona** · May 2026 – Present
 Migrating a Flutter multilingual math-language learning app to React/Next.js for K-5 bilingual students across California schools.
 
@@ -106,8 +108,10 @@ AI gateway for routing requests across 100+ LLM providers.
 
 ## Education & Training
 
-**Cal Poly Pomona** · B.S. Computer Science + Data Science minor · GPA 3.72 · Expected Dec 2027            
-**Los Angeles City College** · A.A. · GPA 3.7 · Transferred with Honors · 2025                          
+**Cal Poly Pomona** · B.S. Computer Science + Data Science minor · GPA 3.72 · Expected Dec 2027  
+
+**Los Angeles City College** · A.A. · GPA 3.7 · Transferred with Honors · 2025       
+
 **CodePath** · Advanced Technical Interview Prep · Feb – Apr 2026              
 
 ---
