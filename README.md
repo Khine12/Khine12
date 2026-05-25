@@ -1,175 +1,113 @@
-# 👋 Hi, I'm Khine Zar Hein
-🎓 Computer Science Student @ Cal Poly Pomona (Class of 2027)
+# Khine Zar Hein
 
-💻 Full-Stack Developer | Open Source Contributor | SWE Internship Candidate
+**Full-Stack Developer · Open Source Contributor · CS @ Cal Poly Pomona (Dec 2027)**
 
-📍 West Covina, CA
-
----
-
-## 🚀 About Me
-
-I enjoy building software that solves real problems with clean architecture and reliable functionality.
-
-- Building BurmaLingo — an English learning web app for Burmese speakers where structured classes cost half a month's salary in Myanmar. 6-level curriculum (Basic through IELTS Preparation), AI writing feedback and IELTS band scoring via OpenAI GPT-4o, Stripe billing with webhook-based tier control. Live at burmalingo.vercel.app
-- Built Inventra, a full-stack inventory and sales platform with JWT auth, automated email receipts via Resend, daily stock alerts with APScheduler, and a React/TypeScript analytics dashboard — deployed across 4 cloud services with CI/CD
-- Built a Flask REST API during the MLH Production Engineering Hackathon that sustained 500 concurrent users at 76 RPS with zero failures using Redis caching, Nginx load balancing, and Docker
-- Contributing to LiteLLM (45K+ stars), an AI gateway used by thousands of companies — fixed a metadata field mismatch in team callback endpoints causing callbacks to always return empty
-- Contributing to Submitty, an open-source university grading platform, with 4 pull requests across grading, privacy, and access control systems
-- Completed CodePath's Advanced Technical Interview Prep (Feb – April 2026) while actively pursuing Software Engineering internships
+West Covina, CA · [khinezarhein1@gmail.com](mailto:khinezarhein1@gmail.com) · [LinkedIn](https://linkedin.com/in/khine-zar-hein) · [Portfolio](https://khine12.github.io)
 
 ---
 
-## 💼 Work Experience
-
-**Teaching Fellow · CodePath** *(Part-time · May 2026 – Present)*                  
-Supporting students through CodePath's AI course as a paid Teaching Fellow.
+I moved to the US from Myanmar in 2023, self-taught English through immersion, and transferred from community college with honors. I build production software that solves problems I've lived — and contribute to open source projects used by thousands of people.
 
 ---
 
-## 💻 Technical Skills
+## Work Experience
 
-**Languages**
-Java • Python • JavaScript • TypeScript • PHP • SQL • HTML • CSS
+### [BurmaLingo](https://burmalingo.vercel.app) — Founder & Full-Stack Developer · Apr 2026 – Present
 
-**Backend & Infrastructure**
-FastAPI • Flask • Express.js • PostgreSQL • Redis • Nginx • Docker • Gunicorn • SQLAlchemy • APScheduler • Resend API • OpenAI API • GitHub Actions
+In Myanmar, one level of English class from a reputable teacher costs roughly half a month's basic salary — for a seat in a 100-person Zoom call where the teacher doesn't know your name. I went through every stage of that system before moving here. BurmaLingo is the structured, affordable alternative — built by someone who lived the problem from both sides.
 
-**Frontend & Tools**
-React • Next.js • TypeScript • Tailwind CSS • Vite • Recharts • Git • Cypress • Vagrant • Linux/Unix • VS Code
+`React` `TypeScript` `Tailwind CSS` `FastAPI` `PostgreSQL` `OpenAI GPT-4o` `Stripe` `GitHub Actions`
 
-**Core Skills**
-Full-Stack Development • MVC Architecture • LLM Integration • REST APIs • Automated Testing • CI/CD • JWT Authentication • Data Structures & Algorithms
+- 6-level curriculum (Basic → IELTS Preparation) with automatic placement test
+- GPT-4o IELTS band scoring across all 4 criteria, referencing the student's actual writing
+- Stripe subscription billing ($5/month) with webhook-based tier control; manual upgrade path for Myanmar users via Facebook
+- SM-2 spaced repetition algorithm built from scratch; XP system with daily streaks and weekly goals
+- Acquired paying users through word of mouth before public launch; launched to Burmese diaspora community via Facebook, May 2026
+
+[GitHub](https://github.com/Khine12/burmalingo) · [Live](https://burmalingo.vercel.app)
 
 ---
 
-## 🌍 Open Source Contributions
+### Teaching Fellow · CodePath · May 2026 – Present
+Technical mentorship for students in CodePath's Applied AI (AI 110) course.
 
-### LiteLLM
-Open source AI Gateway used by thousands of companies to route requests across 100+ LLM providers (45K+ GitHub stars).
+### Research Contributor · Dr. Steichen's HCI Lab, Cal Poly Pomona · May 2026 – Present
+Migrating a Flutter multilingual math-language learning app to React/Next.js for K-5 bilingual students across California schools.
 
-**Contributions:**
-- Fixed metadata field mismatch in team callback endpoints where GET/DELETE read from `metadata["callback_settings"]` while callbacks are stored under `metadata["logging"]`, causing callbacks to always return empty
+---
+
+## Open Source
+
+### [LiteLLM](https://github.com/BerriAI/litellm) · 45K+ ⭐
+AI gateway for routing requests across 100+ LLM providers.
 
 | PR | Description | Status |
 |----|-------------|--------|
-| [#26926](https://github.com/BerriAI/litellm/pull/26926) | fix: team callback endpoint reads from correct metadata field | 🔄 In Review |
+| [#26926](https://github.com/BerriAI/litellm/pull/26926) | Fix metadata field mismatch in team callback endpoints — GET/DELETE read from wrong key, causing callbacks to always return empty | 🔄 In Review |
 
----
-
-### Submitty
-Open source course management and grading platform used by universities worldwide.
-
-**Contributions:**
-- Contributed 5 pull requests across grading, privacy, and access control systems in a production platform serving thousands of students and instructors
-- Fixed a PHP bug in SubmissionController.php where bulk upload file conflict detection assumed filenames always contain a dot, causing silent merge failures
-- Developed Cypress E2E tests validating privacy protections and grading workflows across student, TA, and instructor roles
-- Fixed forum access control incorrectly excluding limited-access graders from staff functionality
-- Expanded bulk upload sample datasets to improve automated grading test coverage
-- Debugged CI failures and resolved flaky Cypress tests across multiple modules
-- Addressed reviewer feedback across 3+ review cycles with maintainers
+### [Submitty](https://github.com/Submitty/Submitty) · Production university grading platform
 
 | PR | Description | Status |
-|---|---|---|
+|----|-------------|--------|
 | [#12535](https://github.com/Submitty/Submitty/pull/12535) | Cypress E2E tests for overridden grade banner | ✅ Merged |
 | [#12562](https://github.com/Submitty/Submitty/pull/12562) | Legal name privacy tests across roles | ✅ Merged |
 | [#12571](https://github.com/Submitty/Submitty/pull/12571) | Bulk upload sample dataset expansion | 🔄 In Review |
-| [#12607](https://github.com/Submitty/Submitty/pull/12607) | PHP bug fix for file conflict detection | 🔄 In Review |
+| [#12607](https://github.com/Submitty/Submitty/pull/12607) | PHP bug fix: file conflict detection assumed dot in filename, causing silent merge failures | 🔄 In Review |
 | [#12715](https://github.com/Submitty/Submitty/pull/12715) | Forum access control audit | 🔴 Closed — behavior was intentional |
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🌏 BurmaLingo — English Learning Web App for Burmese Speakers
-In Myanmar, a single level of English class from a well-known teacher costs roughly half a month's basic salary — for a seat in a 100-person Zoom class where the teacher doesn't know your name. Cheaper video courses cover only one level with no structured progression. Other apps weren't built for Burmese speakers. BurmaLingo is the structured, affordable alternative — built by a Burmese immigrant who lived this problem from both sides.
+### [Inventra](https://github.com/Khine12/inventra) — Inventory & Sales Management Platform
+`Python` `FastAPI` `PostgreSQL` `React` `TypeScript` `JWT` `Resend` `APScheduler` `pytest` `GitHub Actions`
 
-**Stack:** React • TypeScript • Tailwind CSS • FastAPI • PostgreSQL • JWT • OpenAI GPT-4o • Stripe • GitHub Actions → Vercel + Railway
+- Production REST API with automatic stock deduction, server-side negative stock guard, and email receipts via Resend after every transaction
+- APScheduler sends daily low-stock alerts automatically — no manual trigger
+- Recharts analytics dashboard visualizing revenue, cost, profit, and stock trends over time
+- Deployed across 4 cloud services with GitHub Actions CI/CD
 
-- 6-level curriculum (Basic through IELTS Preparation) with automatic placement test
-- Grammar practice, reading comprehension, vocabulary, and daily phrases across Basic, Elementary, and Pre-Intermediate levels — one question at a time with instant feedback
-- General Writing with AI feedback — grammar corrections, star rating, model answer, and relevance check to detect off-topic answers
-- IELTS Writing Practice with GPT-4o band scoring across all 4 criteria and specific improvement suggestions referencing the student's actual writing
-- IELTS Reading with True/False/Not Given, multiple choice, fill-in-blank, and paragraph matching
-- Stripe subscription billing ($5/month) with webhook-based tier access control + manual upgrade for Myanmar users via Facebook
-- XP system with daily streak tracking, weekly goals, and progression levels
-- Admin dashboard for manual Pro upgrades, user management, and feedback review
-- CI/CD pipeline with GitHub Actions running pytest and TypeScript build checks on every push
-
-[📂 GitHub](https://github.com/Khine12/burmalingo) | [🌐 Live](https://burmalingo.vercel.app) | Target launch: May 31 – June 1, 2026
+[Backend](https://github.com/Khine12/inventra) · [Frontend](https://github.com/Khine12/inventra-frontend) · [Live](https://inventra-frontend-alpha.vercel.app/login)
 
 ---
 
-### 📦 Inventra — Inventory & Sales Management Platform
-Full-stack inventory management platform for small businesses with automated stock tracking, email receipts, and scheduled daily alerts.
-
-**Stack:** Python • FastAPI • PostgreSQL • React • TypeScript • JWT • Resend • APScheduler • pytest • GitHub Actions
-
-- Built production REST API with automatic stock deduction and server-side negative stock guard
-- Integrated Resend API to fire email receipts automatically after every transaction
-- Added APScheduler to email sellers daily about low-stock and expiring items — no manual trigger
-- Deployed across 4 cloud services with GitHub Actions CI/CD running 9 pytest tests on every push
-
-[📂 Backend](https://github.com/Khine12/inventra) | [📂 Frontend](https://github.com/Khine12/inventra-frontend) | [🌐 Live Demo](https://inventra-frontend-alpha.vercel.app/login)
-
----
-
-### ⚙️ MLH Production Engineering Hackathon — Flask REST API
-Production-grade REST API completing the Reliability, Scalability, and Incident Response quest tracks.
-
-**Stack:** Python • Flask • PostgreSQL • Redis • Nginx • Docker • Locust • pytest • GitHub Actions
+### [MLH Production Engineering Hackathon](https://github.com/Khine12/PE-Hackathon-Template-2026) — Flask REST API
+`Python` `Flask` `PostgreSQL` `Redis` `Nginx` `Docker` `Locust` `pytest` `GitHub Actions`
 
 - Redis caching + Nginx load balancing across 2 Gunicorn containers — 500 concurrent users at 76 RPS, 0 failures
 - Structured JSON logging, live metrics endpoint, Discord alerting with auto-recovery detection
-- 83% pytest coverage across 19 tests, GitHub Actions CI/CD with Docker Compose
-
-[📂 GitHub](https://github.com/Khine12/PE-Hackathon-Template-2026)
+- 83% pytest coverage across 19 tests · Reliability Gold, Scalability Gold, Incident Response Silver
 
 ---
 
-### 📅 ShiftSync — Full-Stack Shift Scheduling Platform *(collaborative)*
-Web-based scheduling application for small businesses, built as a 3-person team project.
+### [ShiftSync](https://github.com/TAndronaco/CS4800-Worker-Schedule-Project) — Shift Scheduling Platform *(3-person team)*
+`Next.js` `TypeScript` `Express.js` `PostgreSQL` `JWT`
 
-**Stack:** Next.js (TypeScript) • Express.js (TypeScript) • PostgreSQL • JWT Authentication
-
-- Designed and implemented a Messenger-style in-app messaging system with persistent PostgreSQL storage
+- Built Messenger-style in-app messaging system with persistent PostgreSQL storage
 - Built pricing, payroll, and earnings frontend pages
-- Fixed a bug where managers weren't automatically added to team membership on team creation
-- Fixed authentication state management across the frontend navbar
 
-[📂 GitHub](https://github.com/TAndronaco/CS4800-Worker-Schedule-Project) | [🌐 Live Demo](https://shiftsync13.vercel.app/)
+[Live](https://shiftsync13.vercel.app/)
 
 ---
 
-## 📚 Technical Training
+## Stack
 
-**CodePath — Advanced Technical Interview Prep** | Feb 2026 – Apr 2026            
-Completed a competitive program focused on data structures, algorithms, and Python-based problem solving under time constraints.
+**Languages** · Python · TypeScript · JavaScript · Java · SQL · PHP
 
----
+**Backend** · FastAPI · Flask · Express.js · PostgreSQL · Redis · Nginx · Docker · SQLAlchemy · APScheduler
 
-## 🎓 Education
+**Frontend** · React · Next.js · Tailwind CSS · Recharts · Vite · Cypress
 
-**California State Polytechnic University, Pomona**     
-B.S. in Computer Science — Expected Dec 2027 | GPA: 3.7
-
-**Los Angeles City College**          
-Associate Degree, 2025 | GPA: 3.7 | Transferred with Honors
+**Tooling** · GitHub Actions · JWT · OpenAI API · Stripe · Resend · Linux
 
 ---
 
-## 📫 Connect With Me
+## Education & Training
 
-🌐 Portfolio: [khine12.github.io](https://khine12.github.io)
-💼 LinkedIn: [linkedin.com/in/khine-zar-hein](https://linkedin.com/in/khine-zar-hein)
-📧 Email: khinezarhein1@gmail.com
+**Cal Poly Pomona** · B.S. Computer Science + Data Science minor · GPA 3.72 · Dec 2027
+**Los Angeles City College** · A.A. · GPA 3.7 · Transferred with Honors · 2025
+**CodePath** · Advanced Technical Interview Prep · Feb – Apr 2026
 
 ---
 
-## ⚡ Current Focus
-
-- Teaching Fellow at CodePath (May 2026 – Present)
-- Building BurmaLingo — Target launch: May 31 – June 1, 2026
-- Actively seeking Software Engineering internship opportunities
-- Contributing to LiteLLM and Submitty open source projects
-- Practicing Data Structures & Algorithms on LeetCode and NeetCode
+*Open to SWE internship opportunities for 2026–2027.*
