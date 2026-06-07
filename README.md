@@ -1,4 +1,4 @@
-# Khine Zar Hein
+# Hi, I'm Khine Zar Hein 👋
 
 **Full-Stack Developer · Open Source Contributor · CS @ Cal Poly Pomona (Expected Dec 2027)**
 
@@ -6,37 +6,27 @@ West Covina, CA · [khinezarhein1@gmail.com](mailto:khinezarhein1@gmail.com) · 
 
 ---
 
-I moved to the US from Myanmar in 2023, self-taught English, and transferred from community college with honors. I build production software that solves problems I've lived — and contribute to open source projects used by thousands of people.
-
----
-
 ## Work Experience
 
-**BurmaLingo — Founder & Full-Stack Developer**  · Apr 2026 – Present
+**BurmaLingo — Founder & Full-Stack Developer** · Apr 2026 – Present
 
-In Myanmar, one level of English class from a reputable teacher costs roughly half a month's basic salary — for a seat in a 100-person Zoom call where the teacher doesn't know your name. I went through every stage of that system before moving here. BurmaLingo is the structured, affordable alternative — built by someone who lived the problem from both sides.
+Founded and launched a production English learning platform for Burmese speakers — 6-level curriculum, GPT-4o IELTS band scoring against the student's actual writing, and SM-2 spaced repetition built from scratch. Stripe billing for international users with a manual Facebook-based upgrade path for Myanmar users where Stripe isn't accessible. Launched to the Burmese diaspora community in May 2026 with paying subscribers.
 
 `React` `TypeScript` `Tailwind CSS` `FastAPI` `PostgreSQL` `OpenAI GPT-4o` `Stripe` `GitHub Actions`
-
-- 6-level curriculum (Basic → IELTS Preparation) with automatic placement test
-- GPT-4o IELTS band scoring across all 4 criteria, referencing the student's actual writing
-- Stripe subscription billing ($5/month) with webhook-based tier control; manual upgrade path for Myanmar users via Facebook
-- SM-2 spaced repetition algorithm built from scratch; XP system with daily streaks and weekly goals
-- Acquired paying users through word of mouth before public launch; launched to Burmese diaspora community via Facebook, May 2026
 
 [GitHub](https://github.com/Khine12/burmalingo) · [Live](https://burmalingo.vercel.app)
 
 ---
 
-**Teaching Fellow · CodePath** · May 2026 – Present   
+**Research Contributor · Dr. Steichen's HCI Lab, Cal Poly Pomona** · June 2026 – Present
 
-Technical mentorship for students in CodePath's Applied AI course.
+Porting a Flutter multilingual math-language learning app to React/Next.js + Firebase for K-5 bilingual students in California schools, as part of an IRB-approved HCI research project on AI-driven personalized learning.
 
 ---
 
-**Research Contributor · Dr. Steichen's HCI Lab, Cal Poly Pomona** · May 2026 – Present          
+**Tech Fellow · CodePath** · May 2026 – Present
 
-Migrating a Flutter multilingual math-language learning app to React/Next.js for K-5 bilingual students across California schools.
+Technical mentorship for students in CodePath's Applied AI course.
 
 ---
 
@@ -71,7 +61,7 @@ AI gateway for routing requests across 100+ LLM providers.
 - Recharts analytics dashboard visualizing revenue, cost, profit, and stock trends over time
 - Deployed across 4 cloud services with GitHub Actions CI/CD
 
-[GitHubBackend](https://github.com/Khine12/inventra) · [GitHubFrontend](https://github.com/Khine12/inventra-frontend) · [Live](https://inventra-frontend-alpha.vercel.app/login)
+[GitHub Backend](https://github.com/Khine12/inventra) · [GitHub Frontend](https://github.com/Khine12/inventra-frontend) · [Live](https://inventra-frontend-alpha.vercel.app/login)
 
 ---
 
@@ -80,7 +70,7 @@ AI gateway for routing requests across 100+ LLM providers.
 
 - Redis caching + Nginx load balancing across 2 Gunicorn containers — 500 concurrent users at 76 RPS, 0 failures
 - Structured JSON logging, live metrics endpoint, Discord alerting with auto-recovery detection
-- 83% pytest coverage across 19 tests · Reliability Gold, Scalability Gold, Incident Response Silver
+- 83% pytest coverage across 19 tests · 🥇 Reliability Gold · 🥇 Scalability Gold · 🥈 Incident Response Silver
 
 [GitHub](https://github.com/Khine12/PE-Hackathon-Template-2026)
 
@@ -92,7 +82,7 @@ AI gateway for routing requests across 100+ LLM providers.
 - Built Messenger-style in-app messaging system with persistent PostgreSQL storage
 - Built pricing, payroll, and earnings frontend pages
 
-[GitHub](https://github.com/TAndronaco/CS4800-Worker-Schedule-Project) | [Live](https://shiftsync13.vercel.app/)
+[GitHub](https://github.com/TAndronaco/CS4800-Worker-Schedule-Project) · [Live](https://shiftsync13.vercel.app/)
 
 ---
 
@@ -108,13 +98,13 @@ AI gateway for routing requests across 100+ LLM providers.
 
 ---
 
-## Education & Training
+## Education
 
-**Cal Poly Pomona** · B.S. Computer Science + Data Science minor · GPA 3.72 · Expected Dec 2027  
+**Cal Poly Pomona** · B.S. Computer Science + Data Science minor · GPA 3.72 · Expected Dec 2027
 
-**Los Angeles City College** · A.A. · GPA 3.7 · Transferred with Honors · 2025       
+**Los Angeles City College** · A.A. · GPA 3.7 · Transferred with Honors · 2025
 
-**CodePath** · Advanced Technical Interview Prep · Feb – Apr 2026              
+**CodePath** · Advanced Technical Interview Prep · Feb – Apr 2026
 
 ---
 
