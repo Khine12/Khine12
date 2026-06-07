@@ -6,7 +6,7 @@ West Covina, CA · [khinezarhein1@gmail.com](mailto:khinezarhein1@gmail.com) · 
 
 ---
 
-## Work Experience
+## Experience
 
 **BurmaLingo — Founder & Full-Stack Developer** · Apr 2026 – Present
 
