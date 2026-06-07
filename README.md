@@ -10,7 +10,9 @@ West Covina, CA · [khinezarhein1@gmail.com](mailto:khinezarhein1@gmail.com) · 
 
 **BurmaLingo — Founder & Full-Stack Developer** · Apr 2026 – Present
 
-Founded and launched a production English learning platform for Burmese speakers — 6-level curriculum, GPT-4o IELTS band scoring against the student's actual writing, and SM-2 spaced repetition built from scratch. Stripe billing for international users with a manual Facebook-based upgrade path for Myanmar users where Stripe isn't accessible. Launched to the Burmese diaspora community in May 2026 with paying subscribers.
+- Founded and launched a production English learning platform for Burmese speakers — 6-level curriculum, GPT-4o IELTS band scoring against the student's actual writing, and SM-2 spaced repetition built from scratch. Stripe billing for international users with a manual Facebook-based upgrade path for Myanmar users where Stripe isn't accessible. Launched to the Burmese diaspora community in May 2026 with paying subscribers.
+- Architected full-stack system: React/TypeScript + FastAPI + PostgreSQL deployed across Vercel, Railway, and Neon with 
+GitHub Actions CI/CD. 
 
 `React` `TypeScript` `Tailwind CSS` `FastAPI` `PostgreSQL` `OpenAI GPT-4o` `Stripe` `GitHub Actions`
 
@@ -18,15 +20,16 @@ Founded and launched a production English learning platform for Burmese speakers
 
 ---
 
-**Research Contributor · Dr. Steichen's HCI Lab, Cal Poly Pomona** · June 2026 – Present
+**Research Assistant · Dr. Steichen's HCI Lab, Cal Poly Pomona & Santa Clara University** · June 2026 – Present
 
-Porting a Flutter multilingual math-language learning app to React/Next.js + Firebase for K-5 bilingual students in California schools, as part of an IRB-approved HCI research project on AI-driven personalized learning.
+- Porting a cross-platform Flutter math-language learning app to a React/Next.js + Firebase web stack, preserving all 5 game types and 3 language-assist levels (full and on-demand translation, hover-word glossary, and text-to-speech) used with bilingual K-5 learners.
+- Contributing to an HCI research project on AI-driven, personalized multilingual math-language learning, grounded in IRB-approved pilot studies in California classroom and tutoring settings.  
 
 ---
 
 **Tech Fellow · CodePath** · May 2026 – Present
 
-Technical mentorship for students in CodePath's Applied AI course.
+- Provide technical support and mentorship to students in CodePath's Applied AI course.
 
 ---
 
