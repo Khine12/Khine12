@@ -29,7 +29,7 @@ West Covina, CA · [khinezarhein1@gmail.com](mailto:khinezarhein1@gmail.com) · 
 
 **Tech Fellow · CodePath** · May 2026 – Present
 
-- Mentor students in CodePath's Applied AI (AI 110) course — work through each course project in advance to master the material, then support live sessions by answering students' questions and tracking individual progress to personalize guidance.
+- Mentor students in CodePath's Applied AI course — work through each course project in advance to master the material, then support live sessions by answering students' questions and tracking individual progress to personalize guidance.
 
 ---
 
