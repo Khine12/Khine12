@@ -11,10 +11,10 @@ West Covina, CA · [khinezarhein1@gmail.com](mailto:khinezarhein1@gmail.com) · 
 **BurmaLingo — Founder & Full-Stack Developer** · Apr 2026 – Present
 
 - Founded and launched a production English learning platform for Burmese speakers — 6-level curriculum, GPT-4o IELTS band scoring against the student's actual writing, and SM-2 spaced repetition built from scratch. Stripe billing for international users with a manual Facebook-based upgrade path for Myanmar users where Stripe isn't accessible. Launched to the Burmese diaspora community in May 2026 with paying subscribers.
-- Architected full-stack system: React/TypeScript + FastAPI + PostgreSQL deployed across Vercel, Railway, and Neon with 
-GitHub Actions CI/CD. 
+- Built an AI speaking-assessment feature: Azure AI Speech scores pronunciation (accuracy, fluency, prosody) on the learner's actual speech via a browser-to-server audio pipeline (WebM→16 kHz WAV through ffmpeg), layered with GPT-4o for grammar and topic feedback.
+- Architected the full-stack system: React/TypeScript + FastAPI + PostgreSQL deployed across Vercel, Railway, and Neon with GitHub Actions CI/CD.
 
-`React` `TypeScript` `Tailwind CSS` `FastAPI` `PostgreSQL` `OpenAI GPT-4o` `Stripe` `GitHub Actions`
+`React` `TypeScript` `Tailwind CSS` `FastAPI` `PostgreSQL` `OpenAI GPT-4o` `Azure AI Speech` `Stripe` `GitHub Actions`
 
 [GitHub](https://github.com/Khine12/burmalingo) · [Live](https://burmalingo.vercel.app)
 
@@ -23,13 +23,13 @@ GitHub Actions CI/CD.
 **Research Assistant · Dr. Steichen's HCI Lab, Cal Poly Pomona & Santa Clara University** · June 2026 – Present
 
 - Porting a cross-platform Flutter math-language learning app to a React/Next.js + Firebase web stack, preserving all 5 game types and 3 language-assist levels (full and on-demand translation, hover-word glossary, and text-to-speech) used with bilingual K-5 learners.
-- Contributing to an HCI research project on AI-driven, personalized multilingual math-language learning, grounded in IRB-approved pilot studies in California classroom and tutoring settings.  
+- Contributing to an HCI research project on AI-driven, personalized multilingual math-language learning, grounded in IRB-approved pilot studies in California classroom and tutoring settings.
 
 ---
 
 **Tech Fellow · CodePath** · May 2026 – Present
 
-- Provide technical support and mentorship to students in CodePath's Applied AI course.
+- Mentor students in CodePath's Applied AI (AI 110) course — work through each course project in advance to master the material, then support live sessions by answering students' questions and tracking individual progress to personalize guidance.
 
 ---
 
@@ -93,11 +93,11 @@ AI gateway for routing requests across 100+ LLM providers.
 
 **Languages** · Python · TypeScript · JavaScript · Java · SQL · PHP
 
-**Backend** · FastAPI · Flask · Express.js · PostgreSQL · Redis · Nginx · Docker · SQLAlchemy · APScheduler
+**Backend** · FastAPI · Flask · Express.js · PostgreSQL · Redis · Nginx · Docker · SQLAlchemy · Alembic · APScheduler
 
 **Frontend** · React · Next.js · Tailwind CSS · Recharts · Vite · Cypress
 
-**Tooling** · GitHub Actions · JWT · OpenAI API · Stripe · Resend · Linux
+**Tooling** · GitHub Actions · JWT · OpenAI API · Azure AI Speech · Stripe · Resend · Linux
 
 ---
 
