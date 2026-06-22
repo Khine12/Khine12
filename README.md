@@ -10,11 +10,12 @@ West Covina, CA · [khinezarhein1@gmail.com](mailto:khinezarhein1@gmail.com) · 
 
 **BurmaLingo — Founder & Full-Stack Developer** · Apr 2026 – Present
 
-- Founded and launched a production English learning platform for Burmese speakers — 6-level curriculum, GPT-4o IELTS band scoring against the student's actual writing, and SM-2 spaced repetition built from scratch. Stripe billing for international users with a manual Facebook-based upgrade path for Myanmar users where Stripe isn't accessible. Launched to the Burmese diaspora community in May 2026 with paying subscribers.
+- Founded and launched a production English learning platform for Burmese speakers — a 6-level curriculum covering reading, writing, speaking, and listening, with GPT-4o IELTS band scoring against the student's actual writing and SM-2 spaced repetition built from scratch. Stripe billing for international users with a manual Facebook-based upgrade path for Myanmar users where Stripe isn't accessible. Launched to the Burmese diaspora community in May 2026 with paying subscribers.
 - Built an AI speaking-assessment feature: Azure AI Speech scores pronunciation (accuracy, fluency, prosody) on the learner's actual speech via a browser-to-server audio pipeline (WebM→16 kHz WAV through ffmpeg), layered with GPT-4o for grammar and topic feedback.
+- Built a listening feature with an Azure HD text-to-speech pipeline that pre-generates ~60 multi-voice, IELTS-style audio lessons once, stores them in Azure Blob Storage, and serves static MP3 — a cost-aware design that avoids per-request generation — paired with auto-graded comprehension questions (fill-blank, true/false, multiple choice) across all 6 levels.
 - Architected the full-stack system: React/TypeScript + FastAPI + PostgreSQL deployed across Vercel, Railway, and Neon with GitHub Actions CI/CD.
 
-`React` `TypeScript` `Tailwind CSS` `FastAPI` `PostgreSQL` `OpenAI GPT-4o` `Azure AI Speech` `Stripe` `GitHub Actions`
+`React` `TypeScript` `Tailwind CSS` `FastAPI` `PostgreSQL` `OpenAI GPT-4o` `Azure AI Speech` `Azure Blob Storage` `Stripe` `GitHub Actions`
 
 [GitHub](https://github.com/Khine12/burmalingo) · [Live](https://burmalingo.vercel.app)
 
@@ -97,7 +98,7 @@ AI gateway for routing requests across 100+ LLM providers.
 
 **Frontend** · React · Next.js · Tailwind CSS · Recharts · Vite · Cypress
 
-**Tooling** · GitHub Actions · JWT · OpenAI API · Azure AI Speech · Stripe · Resend · Linux
+**Tooling** · GitHub Actions · JWT · OpenAI API · Azure AI Speech · Azure Blob Storage · Stripe · Resend · Linux
 
 ---
 
