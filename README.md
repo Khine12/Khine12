@@ -48,7 +48,7 @@ AI gateway for routing requests across 100+ LLM providers.
 |----|-------------|--------|
 | [#12535](https://github.com/Submitty/Submitty/pull/12535) | Cypress E2E tests for overridden grade banner | ✅ Merged |
 | [#12562](https://github.com/Submitty/Submitty/pull/12562) | Legal name privacy tests across roles | ✅ Merged |
-| [#12607](https://github.com/Submitty/Submitty/pull/12607) | PHP bug fix: file conflict detection assumed dot in filename, causing silent merge failures | 🔄 In Review |
+| [#12607](https://github.com/Submitty/Submitty/pull/12607) | PHP bug fix: file conflict detection assumed dot in filename, causing silent merge failures | ✅ Merged |
 | [#12571](https://github.com/Submitty/Submitty/pull/12571) | Bulk upload sample dataset expansion | 🔴 Closed |
 | [#12715](https://github.com/Submitty/Submitty/pull/12715) | Forum access control audit | 🔴 Closed |
 ---
