@@ -8,6 +8,29 @@ West Covina, CA · [khinezarhein1@gmail.com](mailto:khinezarhein1@gmail.com) · 
 
 ## Experience
 
+**Website Intern · Yang Management** (placed at LACCD Office of Information Technology) · July 2026 – Present
+
+- Attend cross-departmental meetings across IT, CS, and Web Services teams, tracking workstreams and progress across the organization.
+- Onboarding on Drupal, YAML, Twig, and SASS/SCSS in preparation for contributing to the College CMS application.
+- Will support remote office hours for CS and IT departments during fall 2026, answering student questions.
+
+---
+
+**Research Assistant · Dr. Steichen's HCI Lab, Cal Poly Pomona & Santa Clara University** · June 2026 – August 2026
+
+- Ported a cross-platform Flutter math-language learning app to a React/Next.js + Firebase web stack, preserving all 5 game types and 3 language-assist levels (full and on-demand translation, hover-word glossary, and text-to-speech) for bilingual K-5 learners.
+- Built a Firestore analytics pipeline — data access layer, aggregation logic for skill accuracy, weak-topic detection, and assist-usage tracking — backed by 36 unit tests at 100% statement/branch/function coverage.
+- Built a teacher-facing portal (class overview, per-student detail, assist-usage breakdown) wired to real Firestore data, verified against ground-truth logging audits.
+- Contributed to an HCI research project on AI-driven, personalized multilingual math-language learning, grounded in IRB-approved pilot studies in California classroom and tutoring settings.
+
+---
+
+**Tech Fellow · CodePath** · May 2026 – August 2026
+
+- Mentor students in CodePath's Applied AI course — work through each course project in advance to master the material, then support live sessions by answering students' questions and tracking individual progress to personalize guidance.
+
+---
+
 **BurmaLingo — Founder & Full-Stack Developer** · Apr 2026 – Present
 
 - Founded and launched a production English learning platform for Burmese speakers — a 6-level curriculum covering reading, writing, speaking, and listening, with GPT-4o IELTS band scoring against the student's actual writing and SM-2 spaced repetition built from scratch. Stripe billing for international users with a manual Facebook-based upgrade path for Myanmar users where Stripe isn't accessible. Launched to the Burmese diaspora community in May 2026 with paying subscribers.
@@ -21,27 +44,7 @@ West Covina, CA · [khinezarhein1@gmail.com](mailto:khinezarhein1@gmail.com) · 
 
 ---
 
-**Research Assistant · Dr. Steichen's HCI Lab, Cal Poly Pomona & Santa Clara University** · June 2026 – Present
-
-- Porting a cross-platform Flutter math-language learning app to a React/Next.js + Firebase web stack, preserving all 5 game types and 3 language-assist levels (full and on-demand translation, hover-word glossary, and text-to-speech) used with bilingual K-5 learners.
-- Contributing to an HCI research project on AI-driven, personalized multilingual math-language learning, grounded in IRB-approved pilot studies in California classroom and tutoring settings.
-
----
-
-**Tech Fellow · CodePath** · May 2026 – Present
-
-- Mentor students in CodePath's Applied AI course — work through each course project in advance to master the material, then support live sessions by answering students' questions and tracking individual progress to personalize guidance.
-
----
-
 ## Open Source
-
-### LiteLLM · 45K+ ⭐
-AI gateway for routing requests across 100+ LLM providers.
-
-| PR | Description | Status |
-|----|-------------|--------|
-| [#26926](https://github.com/BerriAI/litellm/pull/26926) | Fix metadata field mismatch in team callback endpoints — GET/DELETE read from wrong key, causing callbacks to always return empty | 🔄 In Review |
 
 ### Submitty · Production university grading platform
 | PR | Description | Status |
@@ -109,5 +112,3 @@ AI gateway for routing requests across 100+ LLM providers.
 **CodePath** · Advanced Technical Interview Prep · Feb – Apr 2026
 
 ---
-
-*Open to SWE internship opportunities for 2026–2027.*
