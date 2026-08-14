@@ -16,7 +16,7 @@ West Covina, CA · [khinezarhein1@gmail.com](mailto:khinezarhein1@gmail.com) · 
 
 ---
 
-**Research Assistant · Dr. Steichen's HCI Lab, Cal Poly Pomona & Santa Clara University** · June 2026 – August 2026
+**Website Developer · Dr. Steichen's HCI Lab, Cal Poly Pomona & Santa Clara University** · June 2026 – August 2026
 
 - Ported a cross-platform Flutter math-language learning app to a React/Next.js + Firebase web stack, preserving all 5 game types and 3 language-assist levels (full and on-demand translation, hover-word glossary, and text-to-speech) for bilingual K-5 learners.
 - Built a Firestore analytics pipeline — data access layer, aggregation logic for skill accuracy, weak-topic detection, and assist-usage tracking — backed by 36 unit tests at 100% statement/branch/function coverage.
