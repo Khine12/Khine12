@@ -10,9 +10,9 @@ West Covina, CA · [khinezarhein1@gmail.com](mailto:khinezarhein1@gmail.com) · 
 
 **Website Intern · Yang Management** (placed at LACCD Office of Information Technology) · July 2026 – Present
 
-- Attend cross-departmental meetings across IT, CS, and Web Services teams, tracking workstreams and progress across the organization.
-- Onboarding on Drupal, YAML, Twig, and SASS/SCSS in preparation for contributing to the College CMS application.
-- Will support remote office hours for CS and IT departments during fall 2026, answering student questions.
+- Audited college websites across a multi-campus district for accessibility, clarity, and content ownership, driving a district-wide accessibility initiative.
+- Attended cross-departmental IT, CS, and Web Services meetings, tracking daily workstreams and coordinating via Microsoft Teams and Planner
+- Ramping up on Drupal, YAML, Twig, and SASS/SCSS for the College CMS platform
 
 ---
 
